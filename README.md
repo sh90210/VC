@@ -8,7 +8,7 @@ and is built so more sports can be added later.
 - `index.html`, `css/`, `js/` are the app. It runs in the browser and needs no build step.
 - `data/<competition>/*.json` is the data the app reads (`meta`, `standings`, `matches`, `scorers`).
 - `scripts/update-data.mjs` downloads live data from football-data.org and writes those files.
-- `.github/workflows/pages.yml` runs that script every 30 minutes, then publishes the site to GitHub Pages.
+- `.github/workflows/pages.yml` runs that script once an hour, then publishes the site to GitHub Pages.
   Your API token stays in a GitHub secret, never in the app.
 - The files already in `data/ucl/` are demo data, so the app works before live data is switched on.
 
