@@ -1,0 +1,3602 @@
+[
+ {
+  "id": 500000,
+  "utc": "2026-09-15T16:45:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 1,
+  "home": {
+   "id": 1001,
+   "name": "Real Madrid",
+   "short": "Real Madrid",
+   "tla": "RMA",
+   "crest": null
+  },
+  "away": {
+   "id": 1036,
+   "name": "Bodø/Glimt",
+   "short": "Bodø/Glimt",
+   "tla": "BOD",
+   "crest": null
+  },
+  "score": {
+   "home": 2,
+   "away": 0
+  }
+ },
+ {
+  "id": 500003,
+  "utc": "2026-09-15T16:45:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 1,
+  "home": {
+   "id": 1033,
+   "name": "Copenhagen",
+   "short": "Copenhagen",
+   "tla": "COP",
+   "crest": null
+  },
+  "away": {
+   "id": 1004,
+   "name": "Athletic Club",
+   "short": "Athletic",
+   "tla": "ATH",
+   "crest": null
+  },
+  "score": {
+   "home": 1,
+   "away": 0
+  }
+ },
+ {
+  "id": 500006,
+  "utc": "2026-09-15T16:45:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 1,
+  "home": {
+   "id": 1007,
+   "name": "Liverpool",
+   "short": "Liverpool",
+   "tla": "LIV",
+   "crest": null
+  },
+  "away": {
+   "id": 1030,
+   "name": "Celtic",
+   "short": "Celtic",
+   "tla": "CEL",
+   "crest": null
+  },
+  "score": {
+   "home": 1,
+   "away": 3
+  }
+ },
+ {
+  "id": 500001,
+  "utc": "2026-09-15T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 1,
+  "home": {
+   "id": 1035,
+   "name": "Qarabağ",
+   "short": "Qarabağ",
+   "tla": "QAR",
+   "crest": null
+  },
+  "away": {
+   "id": 1002,
+   "name": "Barcelona",
+   "short": "Barcelona",
+   "tla": "BAR",
+   "crest": null
+  },
+  "score": {
+   "home": 0,
+   "away": 1
+  }
+ },
+ {
+  "id": 500002,
+  "utc": "2026-09-15T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 1,
+  "home": {
+   "id": 1003,
+   "name": "Atlético Madrid",
+   "short": "Atlético",
+   "tla": "ATM",
+   "crest": null
+  },
+  "away": {
+   "id": 1034,
+   "name": "Slavia Praha",
+   "short": "Slavia",
+   "tla": "SLA",
+   "crest": null
+  },
+  "score": {
+   "home": 2,
+   "away": 0
+  }
+ },
+ {
+  "id": 500004,
+  "utc": "2026-09-15T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 1,
+  "home": {
+   "id": 1005,
+   "name": "Villarreal",
+   "short": "Villarreal",
+   "tla": "VIL",
+   "crest": null
+  },
+  "away": {
+   "id": 1032,
+   "name": "Olympiacos",
+   "short": "Olympiacos",
+   "tla": "OLY",
+   "crest": null
+  },
+  "score": {
+   "home": 0,
+   "away": 0
+  }
+ },
+ {
+  "id": 500005,
+  "utc": "2026-09-15T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 1,
+  "home": {
+   "id": 1031,
+   "name": "Galatasaray",
+   "short": "Galatasaray",
+   "tla": "GAL",
+   "crest": null
+  },
+  "away": {
+   "id": 1006,
+   "name": "Manchester City",
+   "short": "Man City",
+   "tla": "MCI",
+   "crest": null
+  },
+  "score": {
+   "home": 0,
+   "away": 2
+  }
+ },
+ {
+  "id": 500007,
+  "utc": "2026-09-15T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 1,
+  "home": {
+   "id": 1029,
+   "name": "Club Brugge",
+   "short": "Brugge",
+   "tla": "BRU",
+   "crest": null
+  },
+  "away": {
+   "id": 1008,
+   "name": "Arsenal",
+   "short": "Arsenal",
+   "tla": "ARS",
+   "crest": null
+  },
+  "score": {
+   "home": 0,
+   "away": 1
+  }
+ },
+ {
+  "id": 500008,
+  "utc": "2026-09-15T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 1,
+  "home": {
+   "id": 1009,
+   "name": "Chelsea",
+   "short": "Chelsea",
+   "tla": "CHE",
+   "crest": null
+  },
+  "away": {
+   "id": 1028,
+   "name": "Ajax",
+   "short": "Ajax",
+   "tla": "AJA",
+   "crest": null
+  },
+  "score": {
+   "home": 1,
+   "away": 1
+  }
+ },
+ {
+  "id": 500009,
+  "utc": "2026-09-16T16:45:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 1,
+  "home": {
+   "id": 1027,
+   "name": "PSV Eindhoven",
+   "short": "PSV",
+   "tla": "PSV",
+   "crest": null
+  },
+  "away": {
+   "id": 1010,
+   "name": "Newcastle United",
+   "short": "Newcastle",
+   "tla": "NEW",
+   "crest": null
+  },
+  "score": {
+   "home": 1,
+   "away": 0
+  }
+ },
+ {
+  "id": 500012,
+  "utc": "2026-09-16T16:45:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 1,
+  "home": {
+   "id": 1013,
+   "name": "Borussia Dortmund",
+   "short": "Dortmund",
+   "tla": "BVB",
+   "crest": null
+  },
+  "away": {
+   "id": 1024,
+   "name": "Benfica",
+   "short": "Benfica",
+   "tla": "BEN",
+   "crest": null
+  },
+  "score": {
+   "home": 1,
+   "away": 2
+  }
+ },
+ {
+  "id": 500015,
+  "utc": "2026-09-16T16:45:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 1,
+  "home": {
+   "id": 1021,
+   "name": "Juventus",
+   "short": "Juventus",
+   "tla": "JUV",
+   "crest": null
+  },
+  "away": {
+   "id": 1016,
+   "name": "Paris Saint-Germain",
+   "short": "PSG",
+   "tla": "PSG",
+   "crest": null
+  },
+  "score": {
+   "home": 2,
+   "away": 0
+  }
+ },
+ {
+  "id": 500010,
+  "utc": "2026-09-16T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 1,
+  "home": {
+   "id": 1011,
+   "name": "Tottenham Hotspur",
+   "short": "Spurs",
+   "tla": "TOT",
+   "crest": null
+  },
+  "away": {
+   "id": 1026,
+   "name": "Porto",
+   "short": "Porto",
+   "tla": "POR",
+   "crest": null
+  },
+  "score": {
+   "home": 2,
+   "away": 2
+  }
+ },
+ {
+  "id": 500011,
+  "utc": "2026-09-16T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 1,
+  "home": {
+   "id": 1025,
+   "name": "Sporting CP",
+   "short": "Sporting",
+   "tla": "SCP",
+   "crest": null
+  },
+  "away": {
+   "id": 1012,
+   "name": "Bayern Munich",
+   "short": "Bayern",
+   "tla": "FCB",
+   "crest": null
+  },
+  "score": {
+   "home": 1,
+   "away": 0
+  }
+ },
+ {
+  "id": 500013,
+  "utc": "2026-09-16T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 1,
+  "home": {
+   "id": 1023,
+   "name": "Atalanta",
+   "short": "Atalanta",
+   "tla": "ATA",
+   "crest": null
+  },
+  "away": {
+   "id": 1014,
+   "name": "Bayer Leverkusen",
+   "short": "Leverkusen",
+   "tla": "B04",
+   "crest": null
+  },
+  "score": {
+   "home": 1,
+   "away": 4
+  }
+ },
+ {
+  "id": 500014,
+  "utc": "2026-09-16T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 1,
+  "home": {
+   "id": 1015,
+   "name": "Eintracht Frankfurt",
+   "short": "Frankfurt",
+   "tla": "SGE",
+   "crest": null
+  },
+  "away": {
+   "id": 1022,
+   "name": "Napoli",
+   "short": "Napoli",
+   "tla": "NAP",
+   "crest": null
+  },
+  "score": {
+   "home": 1,
+   "away": 3
+  }
+ },
+ {
+  "id": 500016,
+  "utc": "2026-09-16T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 1,
+  "home": {
+   "id": 1017,
+   "name": "Marseille",
+   "short": "Marseille",
+   "tla": "OM",
+   "crest": null
+  },
+  "away": {
+   "id": 1020,
+   "name": "AC Milan",
+   "short": "AC Milan",
+   "tla": "MIL",
+   "crest": null
+  },
+  "score": {
+   "home": 0,
+   "away": 2
+  }
+ },
+ {
+  "id": 500017,
+  "utc": "2026-09-16T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 1,
+  "home": {
+   "id": 1019,
+   "name": "Inter Milan",
+   "short": "Inter",
+   "tla": "INT",
+   "crest": null
+  },
+  "away": {
+   "id": 1018,
+   "name": "Monaco",
+   "short": "Monaco",
+   "tla": "ASM",
+   "crest": null
+  },
+  "score": {
+   "home": 0,
+   "away": 1
+  }
+ },
+ {
+  "id": 500018,
+  "utc": "2026-09-29T16:45:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 2,
+  "home": {
+   "id": 1035,
+   "name": "Qarabağ",
+   "short": "Qarabağ",
+   "tla": "QAR",
+   "crest": null
+  },
+  "away": {
+   "id": 1001,
+   "name": "Real Madrid",
+   "short": "Real Madrid",
+   "tla": "RMA",
+   "crest": null
+  },
+  "score": {
+   "home": 0,
+   "away": 2
+  }
+ },
+ {
+  "id": 500021,
+  "utc": "2026-09-29T16:45:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 2,
+  "home": {
+   "id": 1003,
+   "name": "Atlético Madrid",
+   "short": "Atlético",
+   "tla": "ATM",
+   "crest": null
+  },
+  "away": {
+   "id": 1032,
+   "name": "Olympiacos",
+   "short": "Olympiacos",
+   "tla": "OLY",
+   "crest": null
+  },
+  "score": {
+   "home": 4,
+   "away": 0
+  }
+ },
+ {
+  "id": 500024,
+  "utc": "2026-09-29T16:45:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 2,
+  "home": {
+   "id": 1029,
+   "name": "Club Brugge",
+   "short": "Brugge",
+   "tla": "BRU",
+   "crest": null
+  },
+  "away": {
+   "id": 1006,
+   "name": "Manchester City",
+   "short": "Man City",
+   "tla": "MCI",
+   "crest": null
+  },
+  "score": {
+   "home": 2,
+   "away": 2
+  }
+ },
+ {
+  "id": 500019,
+  "utc": "2026-09-29T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 2,
+  "home": {
+   "id": 1036,
+   "name": "Bodø/Glimt",
+   "short": "Bodø/Glimt",
+   "tla": "BOD",
+   "crest": null
+  },
+  "away": {
+   "id": 1034,
+   "name": "Slavia Praha",
+   "short": "Slavia",
+   "tla": "SLA",
+   "crest": null
+  },
+  "score": {
+   "home": 3,
+   "away": 1
+  }
+ },
+ {
+  "id": 500020,
+  "utc": "2026-09-29T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 2,
+  "home": {
+   "id": 1033,
+   "name": "Copenhagen",
+   "short": "Copenhagen",
+   "tla": "COP",
+   "crest": null
+  },
+  "away": {
+   "id": 1002,
+   "name": "Barcelona",
+   "short": "Barcelona",
+   "tla": "BAR",
+   "crest": null
+  },
+  "score": {
+   "home": 0,
+   "away": 4
+  }
+ },
+ {
+  "id": 500022,
+  "utc": "2026-09-29T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 2,
+  "home": {
+   "id": 1031,
+   "name": "Galatasaray",
+   "short": "Galatasaray",
+   "tla": "GAL",
+   "crest": null
+  },
+  "away": {
+   "id": 1004,
+   "name": "Athletic Club",
+   "short": "Athletic",
+   "tla": "ATH",
+   "crest": null
+  },
+  "score": {
+   "home": 3,
+   "away": 0
+  }
+ },
+ {
+  "id": 500023,
+  "utc": "2026-09-29T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 2,
+  "home": {
+   "id": 1005,
+   "name": "Villarreal",
+   "short": "Villarreal",
+   "tla": "VIL",
+   "crest": null
+  },
+  "away": {
+   "id": 1030,
+   "name": "Celtic",
+   "short": "Celtic",
+   "tla": "CEL",
+   "crest": null
+  },
+  "score": {
+   "home": 3,
+   "away": 0
+  }
+ },
+ {
+  "id": 500025,
+  "utc": "2026-09-29T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 2,
+  "home": {
+   "id": 1007,
+   "name": "Liverpool",
+   "short": "Liverpool",
+   "tla": "LIV",
+   "crest": null
+  },
+  "away": {
+   "id": 1028,
+   "name": "Ajax",
+   "short": "Ajax",
+   "tla": "AJA",
+   "crest": null
+  },
+  "score": {
+   "home": 1,
+   "away": 1
+  }
+ },
+ {
+  "id": 500026,
+  "utc": "2026-09-29T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 2,
+  "home": {
+   "id": 1027,
+   "name": "PSV Eindhoven",
+   "short": "PSV",
+   "tla": "PSV",
+   "crest": null
+  },
+  "away": {
+   "id": 1008,
+   "name": "Arsenal",
+   "short": "Arsenal",
+   "tla": "ARS",
+   "crest": null
+  },
+  "score": {
+   "home": 0,
+   "away": 0
+  }
+ },
+ {
+  "id": 500027,
+  "utc": "2026-09-30T16:45:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 2,
+  "home": {
+   "id": 1009,
+   "name": "Chelsea",
+   "short": "Chelsea",
+   "tla": "CHE",
+   "crest": null
+  },
+  "away": {
+   "id": 1026,
+   "name": "Porto",
+   "short": "Porto",
+   "tla": "POR",
+   "crest": null
+  },
+  "score": {
+   "home": 1,
+   "away": 1
+  }
+ },
+ {
+  "id": 500030,
+  "utc": "2026-09-30T16:45:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 2,
+  "home": {
+   "id": 1023,
+   "name": "Atalanta",
+   "short": "Atalanta",
+   "tla": "ATA",
+   "crest": null
+  },
+  "away": {
+   "id": 1012,
+   "name": "Bayern Munich",
+   "short": "Bayern",
+   "tla": "FCB",
+   "crest": null
+  },
+  "score": {
+   "home": 1,
+   "away": 0
+  }
+ },
+ {
+  "id": 500033,
+  "utc": "2026-09-30T16:45:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 2,
+  "home": {
+   "id": 1015,
+   "name": "Eintracht Frankfurt",
+   "short": "Frankfurt",
+   "tla": "SGE",
+   "crest": null
+  },
+  "away": {
+   "id": 1020,
+   "name": "AC Milan",
+   "short": "AC Milan",
+   "tla": "MIL",
+   "crest": null
+  },
+  "score": {
+   "home": 0,
+   "away": 1
+  }
+ },
+ {
+  "id": 500028,
+  "utc": "2026-09-30T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 2,
+  "home": {
+   "id": 1025,
+   "name": "Sporting CP",
+   "short": "Sporting",
+   "tla": "SCP",
+   "crest": null
+  },
+  "away": {
+   "id": 1010,
+   "name": "Newcastle United",
+   "short": "Newcastle",
+   "tla": "NEW",
+   "crest": null
+  },
+  "score": {
+   "home": 0,
+   "away": 1
+  }
+ },
+ {
+  "id": 500029,
+  "utc": "2026-09-30T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 2,
+  "home": {
+   "id": 1011,
+   "name": "Tottenham Hotspur",
+   "short": "Spurs",
+   "tla": "TOT",
+   "crest": null
+  },
+  "away": {
+   "id": 1024,
+   "name": "Benfica",
+   "short": "Benfica",
+   "tla": "BEN",
+   "crest": null
+  },
+  "score": {
+   "home": 4,
+   "away": 0
+  }
+ },
+ {
+  "id": 500031,
+  "utc": "2026-09-30T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 2,
+  "home": {
+   "id": 1013,
+   "name": "Borussia Dortmund",
+   "short": "Dortmund",
+   "tla": "BVB",
+   "crest": null
+  },
+  "away": {
+   "id": 1022,
+   "name": "Napoli",
+   "short": "Napoli",
+   "tla": "NAP",
+   "crest": null
+  },
+  "score": {
+   "home": 0,
+   "away": 1
+  }
+ },
+ {
+  "id": 500032,
+  "utc": "2026-09-30T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 2,
+  "home": {
+   "id": 1021,
+   "name": "Juventus",
+   "short": "Juventus",
+   "tla": "JUV",
+   "crest": null
+  },
+  "away": {
+   "id": 1014,
+   "name": "Bayer Leverkusen",
+   "short": "Leverkusen",
+   "tla": "B04",
+   "crest": null
+  },
+  "score": {
+   "home": 2,
+   "away": 0
+  }
+ },
+ {
+  "id": 500034,
+  "utc": "2026-09-30T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 2,
+  "home": {
+   "id": 1019,
+   "name": "Inter Milan",
+   "short": "Inter",
+   "tla": "INT",
+   "crest": null
+  },
+  "away": {
+   "id": 1016,
+   "name": "Paris Saint-Germain",
+   "short": "PSG",
+   "tla": "PSG",
+   "crest": null
+  },
+  "score": {
+   "home": 0,
+   "away": 0
+  }
+ },
+ {
+  "id": 500035,
+  "utc": "2026-09-30T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 2,
+  "home": {
+   "id": 1017,
+   "name": "Marseille",
+   "short": "Marseille",
+   "tla": "OM",
+   "crest": null
+  },
+  "away": {
+   "id": 1018,
+   "name": "Monaco",
+   "short": "Monaco",
+   "tla": "ASM",
+   "crest": null
+  },
+  "score": {
+   "home": 0,
+   "away": 1
+  }
+ },
+ {
+  "id": 500036,
+  "utc": "2026-10-20T16:45:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 3,
+  "home": {
+   "id": 1001,
+   "name": "Real Madrid",
+   "short": "Real Madrid",
+   "tla": "RMA",
+   "crest": null
+  },
+  "away": {
+   "id": 1034,
+   "name": "Slavia Praha",
+   "short": "Slavia",
+   "tla": "SLA",
+   "crest": null
+  },
+  "score": {
+   "home": 3,
+   "away": 1
+  }
+ },
+ {
+  "id": 500039,
+  "utc": "2026-10-20T16:45:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 3,
+  "home": {
+   "id": 1031,
+   "name": "Galatasaray",
+   "short": "Galatasaray",
+   "tla": "GAL",
+   "crest": null
+  },
+  "away": {
+   "id": 1002,
+   "name": "Barcelona",
+   "short": "Barcelona",
+   "tla": "BAR",
+   "crest": null
+  },
+  "score": {
+   "home": 0,
+   "away": 1
+  }
+ },
+ {
+  "id": 500042,
+  "utc": "2026-10-20T16:45:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 3,
+  "home": {
+   "id": 1005,
+   "name": "Villarreal",
+   "short": "Villarreal",
+   "tla": "VIL",
+   "crest": null
+  },
+  "away": {
+   "id": 1028,
+   "name": "Ajax",
+   "short": "Ajax",
+   "tla": "AJA",
+   "crest": null
+  },
+  "score": {
+   "home": 0,
+   "away": 0
+  }
+ },
+ {
+  "id": 500037,
+  "utc": "2026-10-20T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 3,
+  "home": {
+   "id": 1033,
+   "name": "Copenhagen",
+   "short": "Copenhagen",
+   "tla": "COP",
+   "crest": null
+  },
+  "away": {
+   "id": 1035,
+   "name": "Qarabağ",
+   "short": "Qarabağ",
+   "tla": "QAR",
+   "crest": null
+  },
+  "score": {
+   "home": 1,
+   "away": 2
+  }
+ },
+ {
+  "id": 500038,
+  "utc": "2026-10-20T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 3,
+  "home": {
+   "id": 1036,
+   "name": "Bodø/Glimt",
+   "short": "Bodø/Glimt",
+   "tla": "BOD",
+   "crest": null
+  },
+  "away": {
+   "id": 1032,
+   "name": "Olympiacos",
+   "short": "Olympiacos",
+   "tla": "OLY",
+   "crest": null
+  },
+  "score": {
+   "home": 1,
+   "away": 1
+  }
+ },
+ {
+  "id": 500040,
+  "utc": "2026-10-20T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 3,
+  "home": {
+   "id": 1003,
+   "name": "Atlético Madrid",
+   "short": "Atlético",
+   "tla": "ATM",
+   "crest": null
+  },
+  "away": {
+   "id": 1030,
+   "name": "Celtic",
+   "short": "Celtic",
+   "tla": "CEL",
+   "crest": null
+  },
+  "score": {
+   "home": 2,
+   "away": 0
+  }
+ },
+ {
+  "id": 500041,
+  "utc": "2026-10-20T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 3,
+  "home": {
+   "id": 1029,
+   "name": "Club Brugge",
+   "short": "Brugge",
+   "tla": "BRU",
+   "crest": null
+  },
+  "away": {
+   "id": 1004,
+   "name": "Athletic Club",
+   "short": "Athletic",
+   "tla": "ATH",
+   "crest": null
+  },
+  "score": {
+   "home": 0,
+   "away": 2
+  }
+ },
+ {
+  "id": 500043,
+  "utc": "2026-10-20T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 3,
+  "home": {
+   "id": 1027,
+   "name": "PSV Eindhoven",
+   "short": "PSV",
+   "tla": "PSV",
+   "crest": null
+  },
+  "away": {
+   "id": 1006,
+   "name": "Manchester City",
+   "short": "Man City",
+   "tla": "MCI",
+   "crest": null
+  },
+  "score": {
+   "home": 4,
+   "away": 1
+  }
+ },
+ {
+  "id": 500044,
+  "utc": "2026-10-20T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 3,
+  "home": {
+   "id": 1007,
+   "name": "Liverpool",
+   "short": "Liverpool",
+   "tla": "LIV",
+   "crest": null
+  },
+  "away": {
+   "id": 1026,
+   "name": "Porto",
+   "short": "Porto",
+   "tla": "POR",
+   "crest": null
+  },
+  "score": {
+   "home": 2,
+   "away": 2
+  }
+ },
+ {
+  "id": 500045,
+  "utc": "2026-10-21T16:45:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 3,
+  "home": {
+   "id": 1025,
+   "name": "Sporting CP",
+   "short": "Sporting",
+   "tla": "SCP",
+   "crest": null
+  },
+  "away": {
+   "id": 1008,
+   "name": "Arsenal",
+   "short": "Arsenal",
+   "tla": "ARS",
+   "crest": null
+  },
+  "score": {
+   "home": 2,
+   "away": 0
+  }
+ },
+ {
+  "id": 500048,
+  "utc": "2026-10-21T16:45:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 3,
+  "home": {
+   "id": 1011,
+   "name": "Tottenham Hotspur",
+   "short": "Spurs",
+   "tla": "TOT",
+   "crest": null
+  },
+  "away": {
+   "id": 1022,
+   "name": "Napoli",
+   "short": "Napoli",
+   "tla": "NAP",
+   "crest": null
+  },
+  "score": {
+   "home": 0,
+   "away": 0
+  }
+ },
+ {
+  "id": 500051,
+  "utc": "2026-10-21T16:45:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 3,
+  "home": {
+   "id": 1019,
+   "name": "Inter Milan",
+   "short": "Inter",
+   "tla": "INT",
+   "crest": null
+  },
+  "away": {
+   "id": 1014,
+   "name": "Bayer Leverkusen",
+   "short": "Leverkusen",
+   "tla": "B04",
+   "crest": null
+  },
+  "score": {
+   "home": 1,
+   "away": 1
+  }
+ },
+ {
+  "id": 500046,
+  "utc": "2026-10-21T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 3,
+  "home": {
+   "id": 1009,
+   "name": "Chelsea",
+   "short": "Chelsea",
+   "tla": "CHE",
+   "crest": null
+  },
+  "away": {
+   "id": 1024,
+   "name": "Benfica",
+   "short": "Benfica",
+   "tla": "BEN",
+   "crest": null
+  },
+  "score": {
+   "home": 1,
+   "away": 0
+  }
+ },
+ {
+  "id": 500047,
+  "utc": "2026-10-21T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 3,
+  "home": {
+   "id": 1023,
+   "name": "Atalanta",
+   "short": "Atalanta",
+   "tla": "ATA",
+   "crest": null
+  },
+  "away": {
+   "id": 1010,
+   "name": "Newcastle United",
+   "short": "Newcastle",
+   "tla": "NEW",
+   "crest": null
+  },
+  "score": {
+   "home": 1,
+   "away": 0
+  }
+ },
+ {
+  "id": 500049,
+  "utc": "2026-10-21T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 3,
+  "home": {
+   "id": 1021,
+   "name": "Juventus",
+   "short": "Juventus",
+   "tla": "JUV",
+   "crest": null
+  },
+  "away": {
+   "id": 1012,
+   "name": "Bayern Munich",
+   "short": "Bayern",
+   "tla": "FCB",
+   "crest": null
+  },
+  "score": {
+   "home": 0,
+   "away": 2
+  }
+ },
+ {
+  "id": 500050,
+  "utc": "2026-10-21T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 3,
+  "home": {
+   "id": 1013,
+   "name": "Borussia Dortmund",
+   "short": "Dortmund",
+   "tla": "BVB",
+   "crest": null
+  },
+  "away": {
+   "id": 1020,
+   "name": "AC Milan",
+   "short": "AC Milan",
+   "tla": "MIL",
+   "crest": null
+  },
+  "score": {
+   "home": 1,
+   "away": 1
+  }
+ },
+ {
+  "id": 500052,
+  "utc": "2026-10-21T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 3,
+  "home": {
+   "id": 1015,
+   "name": "Eintracht Frankfurt",
+   "short": "Frankfurt",
+   "tla": "SGE",
+   "crest": null
+  },
+  "away": {
+   "id": 1018,
+   "name": "Monaco",
+   "short": "Monaco",
+   "tla": "ASM",
+   "crest": null
+  },
+  "score": {
+   "home": 2,
+   "away": 1
+  }
+ },
+ {
+  "id": 500053,
+  "utc": "2026-10-21T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 3,
+  "home": {
+   "id": 1017,
+   "name": "Marseille",
+   "short": "Marseille",
+   "tla": "OM",
+   "crest": null
+  },
+  "away": {
+   "id": 1016,
+   "name": "Paris Saint-Germain",
+   "short": "PSG",
+   "tla": "PSG",
+   "crest": null
+  },
+  "score": {
+   "home": 3,
+   "away": 1
+  }
+ },
+ {
+  "id": 500054,
+  "utc": "2026-11-03T16:45:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 4,
+  "home": {
+   "id": 1033,
+   "name": "Copenhagen",
+   "short": "Copenhagen",
+   "tla": "COP",
+   "crest": null
+  },
+  "away": {
+   "id": 1001,
+   "name": "Real Madrid",
+   "short": "Real Madrid",
+   "tla": "RMA",
+   "crest": null
+  },
+  "score": {
+   "home": 1,
+   "away": 3
+  }
+ },
+ {
+  "id": 500057,
+  "utc": "2026-11-03T16:45:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 4,
+  "home": {
+   "id": 1036,
+   "name": "Bodø/Glimt",
+   "short": "Bodø/Glimt",
+   "tla": "BOD",
+   "crest": null
+  },
+  "away": {
+   "id": 1030,
+   "name": "Celtic",
+   "short": "Celtic",
+   "tla": "CEL",
+   "crest": null
+  },
+  "score": {
+   "home": 2,
+   "away": 1
+  }
+ },
+ {
+  "id": 500060,
+  "utc": "2026-11-03T16:45:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 4,
+  "home": {
+   "id": 1027,
+   "name": "PSV Eindhoven",
+   "short": "PSV",
+   "tla": "PSV",
+   "crest": null
+  },
+  "away": {
+   "id": 1004,
+   "name": "Athletic Club",
+   "short": "Athletic",
+   "tla": "ATH",
+   "crest": null
+  },
+  "score": {
+   "home": 2,
+   "away": 0
+  }
+ },
+ {
+  "id": 500055,
+  "utc": "2026-11-03T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 4,
+  "home": {
+   "id": 1034,
+   "name": "Slavia Praha",
+   "short": "Slavia",
+   "tla": "SLA",
+   "crest": null
+  },
+  "away": {
+   "id": 1032,
+   "name": "Olympiacos",
+   "short": "Olympiacos",
+   "tla": "OLY",
+   "crest": null
+  },
+  "score": {
+   "home": 2,
+   "away": 1
+  }
+ },
+ {
+  "id": 500056,
+  "utc": "2026-11-03T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 4,
+  "home": {
+   "id": 1031,
+   "name": "Galatasaray",
+   "short": "Galatasaray",
+   "tla": "GAL",
+   "crest": null
+  },
+  "away": {
+   "id": 1035,
+   "name": "Qarabağ",
+   "short": "Qarabağ",
+   "tla": "QAR",
+   "crest": null
+  },
+  "score": {
+   "home": 3,
+   "away": 2
+  }
+ },
+ {
+  "id": 500058,
+  "utc": "2026-11-03T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 4,
+  "home": {
+   "id": 1029,
+   "name": "Club Brugge",
+   "short": "Brugge",
+   "tla": "BRU",
+   "crest": null
+  },
+  "away": {
+   "id": 1002,
+   "name": "Barcelona",
+   "short": "Barcelona",
+   "tla": "BAR",
+   "crest": null
+  },
+  "score": {
+   "home": 4,
+   "away": 1
+  }
+ },
+ {
+  "id": 500059,
+  "utc": "2026-11-03T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 4,
+  "home": {
+   "id": 1003,
+   "name": "Atlético Madrid",
+   "short": "Atlético",
+   "tla": "ATM",
+   "crest": null
+  },
+  "away": {
+   "id": 1028,
+   "name": "Ajax",
+   "short": "Ajax",
+   "tla": "AJA",
+   "crest": null
+  },
+  "score": {
+   "home": 1,
+   "away": 0
+  }
+ },
+ {
+  "id": 500061,
+  "utc": "2026-11-03T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 4,
+  "home": {
+   "id": 1005,
+   "name": "Villarreal",
+   "short": "Villarreal",
+   "tla": "VIL",
+   "crest": null
+  },
+  "away": {
+   "id": 1026,
+   "name": "Porto",
+   "short": "Porto",
+   "tla": "POR",
+   "crest": null
+  },
+  "score": {
+   "home": 0,
+   "away": 3
+  }
+ },
+ {
+  "id": 500062,
+  "utc": "2026-11-03T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 4,
+  "home": {
+   "id": 1025,
+   "name": "Sporting CP",
+   "short": "Sporting",
+   "tla": "SCP",
+   "crest": null
+  },
+  "away": {
+   "id": 1006,
+   "name": "Manchester City",
+   "short": "Man City",
+   "tla": "MCI",
+   "crest": null
+  },
+  "score": {
+   "home": 1,
+   "away": 1
+  }
+ },
+ {
+  "id": 500063,
+  "utc": "2026-11-04T16:45:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 4,
+  "home": {
+   "id": 1007,
+   "name": "Liverpool",
+   "short": "Liverpool",
+   "tla": "LIV",
+   "crest": null
+  },
+  "away": {
+   "id": 1024,
+   "name": "Benfica",
+   "short": "Benfica",
+   "tla": "BEN",
+   "crest": null
+  },
+  "score": {
+   "home": 3,
+   "away": 1
+  }
+ },
+ {
+  "id": 500066,
+  "utc": "2026-11-04T16:45:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 4,
+  "home": {
+   "id": 1021,
+   "name": "Juventus",
+   "short": "Juventus",
+   "tla": "JUV",
+   "crest": null
+  },
+  "away": {
+   "id": 1010,
+   "name": "Newcastle United",
+   "short": "Newcastle",
+   "tla": "NEW",
+   "crest": null
+  },
+  "score": {
+   "home": 0,
+   "away": 1
+  }
+ },
+ {
+  "id": 500069,
+  "utc": "2026-11-04T16:45:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 4,
+  "home": {
+   "id": 1013,
+   "name": "Borussia Dortmund",
+   "short": "Dortmund",
+   "tla": "BVB",
+   "crest": null
+  },
+  "away": {
+   "id": 1018,
+   "name": "Monaco",
+   "short": "Monaco",
+   "tla": "ASM",
+   "crest": null
+  },
+  "score": {
+   "home": 3,
+   "away": 0
+  }
+ },
+ {
+  "id": 500064,
+  "utc": "2026-11-04T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 4,
+  "home": {
+   "id": 1023,
+   "name": "Atalanta",
+   "short": "Atalanta",
+   "tla": "ATA",
+   "crest": null
+  },
+  "away": {
+   "id": 1008,
+   "name": "Arsenal",
+   "short": "Arsenal",
+   "tla": "ARS",
+   "crest": null
+  },
+  "score": {
+   "home": 4,
+   "away": 3
+  }
+ },
+ {
+  "id": 500065,
+  "utc": "2026-11-04T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 4,
+  "home": {
+   "id": 1009,
+   "name": "Chelsea",
+   "short": "Chelsea",
+   "tla": "CHE",
+   "crest": null
+  },
+  "away": {
+   "id": 1022,
+   "name": "Napoli",
+   "short": "Napoli",
+   "tla": "NAP",
+   "crest": null
+  },
+  "score": {
+   "home": 0,
+   "away": 1
+  }
+ },
+ {
+  "id": 500067,
+  "utc": "2026-11-04T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 4,
+  "home": {
+   "id": 1011,
+   "name": "Tottenham Hotspur",
+   "short": "Spurs",
+   "tla": "TOT",
+   "crest": null
+  },
+  "away": {
+   "id": 1020,
+   "name": "AC Milan",
+   "short": "AC Milan",
+   "tla": "MIL",
+   "crest": null
+  },
+  "score": {
+   "home": 1,
+   "away": 2
+  }
+ },
+ {
+  "id": 500068,
+  "utc": "2026-11-04T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 4,
+  "home": {
+   "id": 1019,
+   "name": "Inter Milan",
+   "short": "Inter",
+   "tla": "INT",
+   "crest": null
+  },
+  "away": {
+   "id": 1012,
+   "name": "Bayern Munich",
+   "short": "Bayern",
+   "tla": "FCB",
+   "crest": null
+  },
+  "score": {
+   "home": 1,
+   "away": 0
+  }
+ },
+ {
+  "id": 500070,
+  "utc": "2026-11-04T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 4,
+  "home": {
+   "id": 1017,
+   "name": "Marseille",
+   "short": "Marseille",
+   "tla": "OM",
+   "crest": null
+  },
+  "away": {
+   "id": 1014,
+   "name": "Bayer Leverkusen",
+   "short": "Leverkusen",
+   "tla": "B04",
+   "crest": null
+  },
+  "score": {
+   "home": 2,
+   "away": 1
+  }
+ },
+ {
+  "id": 500071,
+  "utc": "2026-11-04T19:00:00Z",
+  "status": "finished",
+  "stage": "league",
+  "matchday": 4,
+  "home": {
+   "id": 1015,
+   "name": "Eintracht Frankfurt",
+   "short": "Frankfurt",
+   "tla": "SGE",
+   "crest": null
+  },
+  "away": {
+   "id": 1016,
+   "name": "Paris Saint-Germain",
+   "short": "PSG",
+   "tla": "PSG",
+   "crest": null
+  },
+  "score": {
+   "home": 1,
+   "away": 1
+  }
+ },
+ {
+  "id": 500072,
+  "utc": "2026-11-24T16:45:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 5,
+  "home": {
+   "id": 1001,
+   "name": "Real Madrid",
+   "short": "Real Madrid",
+   "tla": "RMA",
+   "crest": null
+  },
+  "away": {
+   "id": 1032,
+   "name": "Olympiacos",
+   "short": "Olympiacos",
+   "tla": "OLY",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500075,
+  "utc": "2026-11-24T16:45:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 5,
+  "home": {
+   "id": 1029,
+   "name": "Club Brugge",
+   "short": "Brugge",
+   "tla": "BRU",
+   "crest": null
+  },
+  "away": {
+   "id": 1035,
+   "name": "Qarabağ",
+   "short": "Qarabağ",
+   "tla": "QAR",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500078,
+  "utc": "2026-11-24T16:45:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 5,
+  "home": {
+   "id": 1003,
+   "name": "Atlético Madrid",
+   "short": "Atlético",
+   "tla": "ATM",
+   "crest": null
+  },
+  "away": {
+   "id": 1026,
+   "name": "Porto",
+   "short": "Porto",
+   "tla": "POR",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500073,
+  "utc": "2026-11-24T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 5,
+  "home": {
+   "id": 1031,
+   "name": "Galatasaray",
+   "short": "Galatasaray",
+   "tla": "GAL",
+   "crest": null
+  },
+  "away": {
+   "id": 1033,
+   "name": "Copenhagen",
+   "short": "Copenhagen",
+   "tla": "COP",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500074,
+  "utc": "2026-11-24T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 5,
+  "home": {
+   "id": 1034,
+   "name": "Slavia Praha",
+   "short": "Slavia",
+   "tla": "SLA",
+   "crest": null
+  },
+  "away": {
+   "id": 1030,
+   "name": "Celtic",
+   "short": "Celtic",
+   "tla": "CEL",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500076,
+  "utc": "2026-11-24T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 5,
+  "home": {
+   "id": 1036,
+   "name": "Bodø/Glimt",
+   "short": "Bodø/Glimt",
+   "tla": "BOD",
+   "crest": null
+  },
+  "away": {
+   "id": 1028,
+   "name": "Ajax",
+   "short": "Ajax",
+   "tla": "AJA",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500077,
+  "utc": "2026-11-24T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 5,
+  "home": {
+   "id": 1027,
+   "name": "PSV Eindhoven",
+   "short": "PSV",
+   "tla": "PSV",
+   "crest": null
+  },
+  "away": {
+   "id": 1002,
+   "name": "Barcelona",
+   "short": "Barcelona",
+   "tla": "BAR",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500079,
+  "utc": "2026-11-24T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 5,
+  "home": {
+   "id": 1025,
+   "name": "Sporting CP",
+   "short": "Sporting",
+   "tla": "SCP",
+   "crest": null
+  },
+  "away": {
+   "id": 1004,
+   "name": "Athletic Club",
+   "short": "Athletic",
+   "tla": "ATH",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500080,
+  "utc": "2026-11-24T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 5,
+  "home": {
+   "id": 1005,
+   "name": "Villarreal",
+   "short": "Villarreal",
+   "tla": "VIL",
+   "crest": null
+  },
+  "away": {
+   "id": 1024,
+   "name": "Benfica",
+   "short": "Benfica",
+   "tla": "BEN",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500081,
+  "utc": "2026-11-25T16:45:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 5,
+  "home": {
+   "id": 1023,
+   "name": "Atalanta",
+   "short": "Atalanta",
+   "tla": "ATA",
+   "crest": null
+  },
+  "away": {
+   "id": 1006,
+   "name": "Manchester City",
+   "short": "Man City",
+   "tla": "MCI",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500084,
+  "utc": "2026-11-25T16:45:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 5,
+  "home": {
+   "id": 1009,
+   "name": "Chelsea",
+   "short": "Chelsea",
+   "tla": "CHE",
+   "crest": null
+  },
+  "away": {
+   "id": 1020,
+   "name": "AC Milan",
+   "short": "AC Milan",
+   "tla": "MIL",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500087,
+  "utc": "2026-11-25T16:45:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 5,
+  "home": {
+   "id": 1017,
+   "name": "Marseille",
+   "short": "Marseille",
+   "tla": "OM",
+   "crest": null
+  },
+  "away": {
+   "id": 1012,
+   "name": "Bayern Munich",
+   "short": "Bayern",
+   "tla": "FCB",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500082,
+  "utc": "2026-11-25T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 5,
+  "home": {
+   "id": 1007,
+   "name": "Liverpool",
+   "short": "Liverpool",
+   "tla": "LIV",
+   "crest": null
+  },
+  "away": {
+   "id": 1022,
+   "name": "Napoli",
+   "short": "Napoli",
+   "tla": "NAP",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500083,
+  "utc": "2026-11-25T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 5,
+  "home": {
+   "id": 1021,
+   "name": "Juventus",
+   "short": "Juventus",
+   "tla": "JUV",
+   "crest": null
+  },
+  "away": {
+   "id": 1008,
+   "name": "Arsenal",
+   "short": "Arsenal",
+   "tla": "ARS",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500085,
+  "utc": "2026-11-25T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 5,
+  "home": {
+   "id": 1019,
+   "name": "Inter Milan",
+   "short": "Inter",
+   "tla": "INT",
+   "crest": null
+  },
+  "away": {
+   "id": 1010,
+   "name": "Newcastle United",
+   "short": "Newcastle",
+   "tla": "NEW",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500086,
+  "utc": "2026-11-25T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 5,
+  "home": {
+   "id": 1011,
+   "name": "Tottenham Hotspur",
+   "short": "Spurs",
+   "tla": "TOT",
+   "crest": null
+  },
+  "away": {
+   "id": 1018,
+   "name": "Monaco",
+   "short": "Monaco",
+   "tla": "ASM",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500088,
+  "utc": "2026-11-25T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 5,
+  "home": {
+   "id": 1013,
+   "name": "Borussia Dortmund",
+   "short": "Dortmund",
+   "tla": "BVB",
+   "crest": null
+  },
+  "away": {
+   "id": 1016,
+   "name": "Paris Saint-Germain",
+   "short": "PSG",
+   "tla": "PSG",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500089,
+  "utc": "2026-11-25T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 5,
+  "home": {
+   "id": 1015,
+   "name": "Eintracht Frankfurt",
+   "short": "Frankfurt",
+   "tla": "SGE",
+   "crest": null
+  },
+  "away": {
+   "id": 1014,
+   "name": "Bayer Leverkusen",
+   "short": "Leverkusen",
+   "tla": "B04",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500090,
+  "utc": "2026-12-08T16:45:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 6,
+  "home": {
+   "id": 1031,
+   "name": "Galatasaray",
+   "short": "Galatasaray",
+   "tla": "GAL",
+   "crest": null
+  },
+  "away": {
+   "id": 1001,
+   "name": "Real Madrid",
+   "short": "Real Madrid",
+   "tla": "RMA",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500093,
+  "utc": "2026-12-08T16:45:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 6,
+  "home": {
+   "id": 1034,
+   "name": "Slavia Praha",
+   "short": "Slavia",
+   "tla": "SLA",
+   "crest": null
+  },
+  "away": {
+   "id": 1028,
+   "name": "Ajax",
+   "short": "Ajax",
+   "tla": "AJA",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500096,
+  "utc": "2026-12-08T16:45:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 6,
+  "home": {
+   "id": 1025,
+   "name": "Sporting CP",
+   "short": "Sporting",
+   "tla": "SCP",
+   "crest": null
+  },
+  "away": {
+   "id": 1002,
+   "name": "Barcelona",
+   "short": "Barcelona",
+   "tla": "BAR",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500091,
+  "utc": "2026-12-08T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 6,
+  "home": {
+   "id": 1032,
+   "name": "Olympiacos",
+   "short": "Olympiacos",
+   "tla": "OLY",
+   "crest": null
+  },
+  "away": {
+   "id": 1030,
+   "name": "Celtic",
+   "short": "Celtic",
+   "tla": "CEL",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500092,
+  "utc": "2026-12-08T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 6,
+  "home": {
+   "id": 1029,
+   "name": "Club Brugge",
+   "short": "Brugge",
+   "tla": "BRU",
+   "crest": null
+  },
+  "away": {
+   "id": 1033,
+   "name": "Copenhagen",
+   "short": "Copenhagen",
+   "tla": "COP",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500094,
+  "utc": "2026-12-08T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 6,
+  "home": {
+   "id": 1027,
+   "name": "PSV Eindhoven",
+   "short": "PSV",
+   "tla": "PSV",
+   "crest": null
+  },
+  "away": {
+   "id": 1035,
+   "name": "Qarabağ",
+   "short": "Qarabağ",
+   "tla": "QAR",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500095,
+  "utc": "2026-12-08T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 6,
+  "home": {
+   "id": 1036,
+   "name": "Bodø/Glimt",
+   "short": "Bodø/Glimt",
+   "tla": "BOD",
+   "crest": null
+  },
+  "away": {
+   "id": 1026,
+   "name": "Porto",
+   "short": "Porto",
+   "tla": "POR",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500097,
+  "utc": "2026-12-08T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 6,
+  "home": {
+   "id": 1003,
+   "name": "Atlético Madrid",
+   "short": "Atlético",
+   "tla": "ATM",
+   "crest": null
+  },
+  "away": {
+   "id": 1024,
+   "name": "Benfica",
+   "short": "Benfica",
+   "tla": "BEN",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500098,
+  "utc": "2026-12-08T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 6,
+  "home": {
+   "id": 1023,
+   "name": "Atalanta",
+   "short": "Atalanta",
+   "tla": "ATA",
+   "crest": null
+  },
+  "away": {
+   "id": 1004,
+   "name": "Athletic Club",
+   "short": "Athletic",
+   "tla": "ATH",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500099,
+  "utc": "2026-12-09T16:45:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 6,
+  "home": {
+   "id": 1005,
+   "name": "Villarreal",
+   "short": "Villarreal",
+   "tla": "VIL",
+   "crest": null
+  },
+  "away": {
+   "id": 1022,
+   "name": "Napoli",
+   "short": "Napoli",
+   "tla": "NAP",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500102,
+  "utc": "2026-12-09T16:45:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 6,
+  "home": {
+   "id": 1019,
+   "name": "Inter Milan",
+   "short": "Inter",
+   "tla": "INT",
+   "crest": null
+  },
+  "away": {
+   "id": 1008,
+   "name": "Arsenal",
+   "short": "Arsenal",
+   "tla": "ARS",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500105,
+  "utc": "2026-12-09T16:45:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 6,
+  "home": {
+   "id": 1011,
+   "name": "Tottenham Hotspur",
+   "short": "Spurs",
+   "tla": "TOT",
+   "crest": null
+  },
+  "away": {
+   "id": 1016,
+   "name": "Paris Saint-Germain",
+   "short": "PSG",
+   "tla": "PSG",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500100,
+  "utc": "2026-12-09T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 6,
+  "home": {
+   "id": 1021,
+   "name": "Juventus",
+   "short": "Juventus",
+   "tla": "JUV",
+   "crest": null
+  },
+  "away": {
+   "id": 1006,
+   "name": "Manchester City",
+   "short": "Man City",
+   "tla": "MCI",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500101,
+  "utc": "2026-12-09T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 6,
+  "home": {
+   "id": 1007,
+   "name": "Liverpool",
+   "short": "Liverpool",
+   "tla": "LIV",
+   "crest": null
+  },
+  "away": {
+   "id": 1020,
+   "name": "AC Milan",
+   "short": "AC Milan",
+   "tla": "MIL",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500103,
+  "utc": "2026-12-09T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 6,
+  "home": {
+   "id": 1009,
+   "name": "Chelsea",
+   "short": "Chelsea",
+   "tla": "CHE",
+   "crest": null
+  },
+  "away": {
+   "id": 1018,
+   "name": "Monaco",
+   "short": "Monaco",
+   "tla": "ASM",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500104,
+  "utc": "2026-12-09T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 6,
+  "home": {
+   "id": 1017,
+   "name": "Marseille",
+   "short": "Marseille",
+   "tla": "OM",
+   "crest": null
+  },
+  "away": {
+   "id": 1010,
+   "name": "Newcastle United",
+   "short": "Newcastle",
+   "tla": "NEW",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500106,
+  "utc": "2026-12-09T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 6,
+  "home": {
+   "id": 1015,
+   "name": "Eintracht Frankfurt",
+   "short": "Frankfurt",
+   "tla": "SGE",
+   "crest": null
+  },
+  "away": {
+   "id": 1012,
+   "name": "Bayern Munich",
+   "short": "Bayern",
+   "tla": "FCB",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500107,
+  "utc": "2026-12-09T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 6,
+  "home": {
+   "id": 1013,
+   "name": "Borussia Dortmund",
+   "short": "Dortmund",
+   "tla": "BVB",
+   "crest": null
+  },
+  "away": {
+   "id": 1014,
+   "name": "Bayer Leverkusen",
+   "short": "Leverkusen",
+   "tla": "B04",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500108,
+  "utc": "2027-01-20T16:45:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 7,
+  "home": {
+   "id": 1001,
+   "name": "Real Madrid",
+   "short": "Real Madrid",
+   "tla": "RMA",
+   "crest": null
+  },
+  "away": {
+   "id": 1030,
+   "name": "Celtic",
+   "short": "Celtic",
+   "tla": "CEL",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500111,
+  "utc": "2027-01-20T16:45:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 7,
+  "home": {
+   "id": 1027,
+   "name": "PSV Eindhoven",
+   "short": "PSV",
+   "tla": "PSV",
+   "crest": null
+  },
+  "away": {
+   "id": 1033,
+   "name": "Copenhagen",
+   "short": "Copenhagen",
+   "tla": "COP",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500114,
+  "utc": "2027-01-20T16:45:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 7,
+  "home": {
+   "id": 1036,
+   "name": "Bodø/Glimt",
+   "short": "Bodø/Glimt",
+   "tla": "BOD",
+   "crest": null
+  },
+  "away": {
+   "id": 1024,
+   "name": "Benfica",
+   "short": "Benfica",
+   "tla": "BEN",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500109,
+  "utc": "2027-01-20T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 7,
+  "home": {
+   "id": 1029,
+   "name": "Club Brugge",
+   "short": "Brugge",
+   "tla": "BRU",
+   "crest": null
+  },
+  "away": {
+   "id": 1031,
+   "name": "Galatasaray",
+   "short": "Galatasaray",
+   "tla": "GAL",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500110,
+  "utc": "2027-01-20T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 7,
+  "home": {
+   "id": 1032,
+   "name": "Olympiacos",
+   "short": "Olympiacos",
+   "tla": "OLY",
+   "crest": null
+  },
+  "away": {
+   "id": 1028,
+   "name": "Ajax",
+   "short": "Ajax",
+   "tla": "AJA",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500112,
+  "utc": "2027-01-20T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 7,
+  "home": {
+   "id": 1034,
+   "name": "Slavia Praha",
+   "short": "Slavia",
+   "tla": "SLA",
+   "crest": null
+  },
+  "away": {
+   "id": 1026,
+   "name": "Porto",
+   "short": "Porto",
+   "tla": "POR",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500113,
+  "utc": "2027-01-20T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 7,
+  "home": {
+   "id": 1025,
+   "name": "Sporting CP",
+   "short": "Sporting",
+   "tla": "SCP",
+   "crest": null
+  },
+  "away": {
+   "id": 1035,
+   "name": "Qarabağ",
+   "short": "Qarabağ",
+   "tla": "QAR",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500115,
+  "utc": "2027-01-20T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 7,
+  "home": {
+   "id": 1023,
+   "name": "Atalanta",
+   "short": "Atalanta",
+   "tla": "ATA",
+   "crest": null
+  },
+  "away": {
+   "id": 1002,
+   "name": "Barcelona",
+   "short": "Barcelona",
+   "tla": "BAR",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500116,
+  "utc": "2027-01-20T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 7,
+  "home": {
+   "id": 1003,
+   "name": "Atlético Madrid",
+   "short": "Atlético",
+   "tla": "ATM",
+   "crest": null
+  },
+  "away": {
+   "id": 1022,
+   "name": "Napoli",
+   "short": "Napoli",
+   "tla": "NAP",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500117,
+  "utc": "2027-01-21T16:45:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 7,
+  "home": {
+   "id": 1021,
+   "name": "Juventus",
+   "short": "Juventus",
+   "tla": "JUV",
+   "crest": null
+  },
+  "away": {
+   "id": 1004,
+   "name": "Athletic Club",
+   "short": "Athletic",
+   "tla": "ATH",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500120,
+  "utc": "2027-01-21T16:45:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 7,
+  "home": {
+   "id": 1007,
+   "name": "Liverpool",
+   "short": "Liverpool",
+   "tla": "LIV",
+   "crest": null
+  },
+  "away": {
+   "id": 1018,
+   "name": "Monaco",
+   "short": "Monaco",
+   "tla": "ASM",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500123,
+  "utc": "2027-01-21T16:45:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 7,
+  "home": {
+   "id": 1015,
+   "name": "Eintracht Frankfurt",
+   "short": "Frankfurt",
+   "tla": "SGE",
+   "crest": null
+  },
+  "away": {
+   "id": 1010,
+   "name": "Newcastle United",
+   "short": "Newcastle",
+   "tla": "NEW",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500118,
+  "utc": "2027-01-21T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 7,
+  "home": {
+   "id": 1005,
+   "name": "Villarreal",
+   "short": "Villarreal",
+   "tla": "VIL",
+   "crest": null
+  },
+  "away": {
+   "id": 1020,
+   "name": "AC Milan",
+   "short": "AC Milan",
+   "tla": "MIL",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500119,
+  "utc": "2027-01-21T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 7,
+  "home": {
+   "id": 1019,
+   "name": "Inter Milan",
+   "short": "Inter",
+   "tla": "INT",
+   "crest": null
+  },
+  "away": {
+   "id": 1006,
+   "name": "Manchester City",
+   "short": "Man City",
+   "tla": "MCI",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500121,
+  "utc": "2027-01-21T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 7,
+  "home": {
+   "id": 1017,
+   "name": "Marseille",
+   "short": "Marseille",
+   "tla": "OM",
+   "crest": null
+  },
+  "away": {
+   "id": 1008,
+   "name": "Arsenal",
+   "short": "Arsenal",
+   "tla": "ARS",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500122,
+  "utc": "2027-01-21T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 7,
+  "home": {
+   "id": 1009,
+   "name": "Chelsea",
+   "short": "Chelsea",
+   "tla": "CHE",
+   "crest": null
+  },
+  "away": {
+   "id": 1016,
+   "name": "Paris Saint-Germain",
+   "short": "PSG",
+   "tla": "PSG",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500124,
+  "utc": "2027-01-21T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 7,
+  "home": {
+   "id": 1011,
+   "name": "Tottenham Hotspur",
+   "short": "Spurs",
+   "tla": "TOT",
+   "crest": null
+  },
+  "away": {
+   "id": 1014,
+   "name": "Bayer Leverkusen",
+   "short": "Leverkusen",
+   "tla": "B04",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500125,
+  "utc": "2027-01-21T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 7,
+  "home": {
+   "id": 1013,
+   "name": "Borussia Dortmund",
+   "short": "Dortmund",
+   "tla": "BVB",
+   "crest": null
+  },
+  "away": {
+   "id": 1012,
+   "name": "Bayern Munich",
+   "short": "Bayern",
+   "tla": "FCB",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500126,
+  "utc": "2027-01-27T16:45:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 8,
+  "home": {
+   "id": 1029,
+   "name": "Club Brugge",
+   "short": "Brugge",
+   "tla": "BRU",
+   "crest": null
+  },
+  "away": {
+   "id": 1001,
+   "name": "Real Madrid",
+   "short": "Real Madrid",
+   "tla": "RMA",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500129,
+  "utc": "2027-01-27T16:45:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 8,
+  "home": {
+   "id": 1032,
+   "name": "Olympiacos",
+   "short": "Olympiacos",
+   "tla": "OLY",
+   "crest": null
+  },
+  "away": {
+   "id": 1026,
+   "name": "Porto",
+   "short": "Porto",
+   "tla": "POR",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500132,
+  "utc": "2027-01-27T16:45:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 8,
+  "home": {
+   "id": 1023,
+   "name": "Atalanta",
+   "short": "Atalanta",
+   "tla": "ATA",
+   "crest": null
+  },
+  "away": {
+   "id": 1035,
+   "name": "Qarabağ",
+   "short": "Qarabağ",
+   "tla": "QAR",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500127,
+  "utc": "2027-01-27T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 8,
+  "home": {
+   "id": 1030,
+   "name": "Celtic",
+   "short": "Celtic",
+   "tla": "CEL",
+   "crest": null
+  },
+  "away": {
+   "id": 1028,
+   "name": "Ajax",
+   "short": "Ajax",
+   "tla": "AJA",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500128,
+  "utc": "2027-01-27T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 8,
+  "home": {
+   "id": 1027,
+   "name": "PSV Eindhoven",
+   "short": "PSV",
+   "tla": "PSV",
+   "crest": null
+  },
+  "away": {
+   "id": 1031,
+   "name": "Galatasaray",
+   "short": "Galatasaray",
+   "tla": "GAL",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500130,
+  "utc": "2027-01-27T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 8,
+  "home": {
+   "id": 1025,
+   "name": "Sporting CP",
+   "short": "Sporting",
+   "tla": "SCP",
+   "crest": null
+  },
+  "away": {
+   "id": 1033,
+   "name": "Copenhagen",
+   "short": "Copenhagen",
+   "tla": "COP",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500131,
+  "utc": "2027-01-27T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 8,
+  "home": {
+   "id": 1034,
+   "name": "Slavia Praha",
+   "short": "Slavia",
+   "tla": "SLA",
+   "crest": null
+  },
+  "away": {
+   "id": 1024,
+   "name": "Benfica",
+   "short": "Benfica",
+   "tla": "BEN",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500133,
+  "utc": "2027-01-27T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 8,
+  "home": {
+   "id": 1036,
+   "name": "Bodø/Glimt",
+   "short": "Bodø/Glimt",
+   "tla": "BOD",
+   "crest": null
+  },
+  "away": {
+   "id": 1022,
+   "name": "Napoli",
+   "short": "Napoli",
+   "tla": "NAP",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500134,
+  "utc": "2027-01-27T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 8,
+  "home": {
+   "id": 1021,
+   "name": "Juventus",
+   "short": "Juventus",
+   "tla": "JUV",
+   "crest": null
+  },
+  "away": {
+   "id": 1002,
+   "name": "Barcelona",
+   "short": "Barcelona",
+   "tla": "BAR",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500135,
+  "utc": "2027-01-28T16:45:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 8,
+  "home": {
+   "id": 1003,
+   "name": "Atlético Madrid",
+   "short": "Atlético",
+   "tla": "ATM",
+   "crest": null
+  },
+  "away": {
+   "id": 1020,
+   "name": "AC Milan",
+   "short": "AC Milan",
+   "tla": "MIL",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500138,
+  "utc": "2027-01-28T16:45:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 8,
+  "home": {
+   "id": 1017,
+   "name": "Marseille",
+   "short": "Marseille",
+   "tla": "OM",
+   "crest": null
+  },
+  "away": {
+   "id": 1006,
+   "name": "Manchester City",
+   "short": "Man City",
+   "tla": "MCI",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500141,
+  "utc": "2027-01-28T16:45:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 8,
+  "home": {
+   "id": 1009,
+   "name": "Chelsea",
+   "short": "Chelsea",
+   "tla": "CHE",
+   "crest": null
+  },
+  "away": {
+   "id": 1014,
+   "name": "Bayer Leverkusen",
+   "short": "Leverkusen",
+   "tla": "B04",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500136,
+  "utc": "2027-01-28T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 8,
+  "home": {
+   "id": 1019,
+   "name": "Inter Milan",
+   "short": "Inter",
+   "tla": "INT",
+   "crest": null
+  },
+  "away": {
+   "id": 1004,
+   "name": "Athletic Club",
+   "short": "Athletic",
+   "tla": "ATH",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500137,
+  "utc": "2027-01-28T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 8,
+  "home": {
+   "id": 1005,
+   "name": "Villarreal",
+   "short": "Villarreal",
+   "tla": "VIL",
+   "crest": null
+  },
+  "away": {
+   "id": 1018,
+   "name": "Monaco",
+   "short": "Monaco",
+   "tla": "ASM",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500139,
+  "utc": "2027-01-28T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 8,
+  "home": {
+   "id": 1007,
+   "name": "Liverpool",
+   "short": "Liverpool",
+   "tla": "LIV",
+   "crest": null
+  },
+  "away": {
+   "id": 1016,
+   "name": "Paris Saint-Germain",
+   "short": "PSG",
+   "tla": "PSG",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500140,
+  "utc": "2027-01-28T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 8,
+  "home": {
+   "id": 1015,
+   "name": "Eintracht Frankfurt",
+   "short": "Frankfurt",
+   "tla": "SGE",
+   "crest": null
+  },
+  "away": {
+   "id": 1008,
+   "name": "Arsenal",
+   "short": "Arsenal",
+   "tla": "ARS",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500142,
+  "utc": "2027-01-28T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 8,
+  "home": {
+   "id": 1013,
+   "name": "Borussia Dortmund",
+   "short": "Dortmund",
+   "tla": "BVB",
+   "crest": null
+  },
+  "away": {
+   "id": 1010,
+   "name": "Newcastle United",
+   "short": "Newcastle",
+   "tla": "NEW",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ },
+ {
+  "id": 500143,
+  "utc": "2027-01-28T19:00:00Z",
+  "status": "upcoming",
+  "stage": "league",
+  "matchday": 8,
+  "home": {
+   "id": 1011,
+   "name": "Tottenham Hotspur",
+   "short": "Spurs",
+   "tla": "TOT",
+   "crest": null
+  },
+  "away": {
+   "id": 1012,
+   "name": "Bayern Munich",
+   "short": "Bayern",
+   "tla": "FCB",
+   "crest": null
+  },
+  "score": {
+   "home": null,
+   "away": null
+  }
+ }
+]

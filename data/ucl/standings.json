@@ -1,0 +1,650 @@
+[
+ {
+  "pos": 1,
+  "team": {
+   "id": 1003,
+   "name": "Atlético Madrid",
+   "short": "Atlético",
+   "tla": "ATM",
+   "crest": null
+  },
+  "played": 4,
+  "won": 4,
+  "draw": 0,
+  "lost": 0,
+  "gf": 9,
+  "ga": 0,
+  "gd": 9,
+  "pts": 12
+ },
+ {
+  "pos": 2,
+  "team": {
+   "id": 1001,
+   "name": "Real Madrid",
+   "short": "Real Madrid",
+   "tla": "RMA",
+   "crest": null
+  },
+  "played": 4,
+  "won": 4,
+  "draw": 0,
+  "lost": 0,
+  "gf": 10,
+  "ga": 2,
+  "gd": 8,
+  "pts": 12
+ },
+ {
+  "pos": 3,
+  "team": {
+   "id": 1027,
+   "name": "PSV Eindhoven",
+   "short": "PSV",
+   "tla": "PSV",
+   "crest": null
+  },
+  "played": 4,
+  "won": 3,
+  "draw": 1,
+  "lost": 0,
+  "gf": 7,
+  "ga": 1,
+  "gd": 6,
+  "pts": 10
+ },
+ {
+  "pos": 4,
+  "team": {
+   "id": 1020,
+   "name": "AC Milan",
+   "short": "AC Milan",
+   "tla": "MIL",
+   "crest": null
+  },
+  "played": 4,
+  "won": 3,
+  "draw": 1,
+  "lost": 0,
+  "gf": 6,
+  "ga": 2,
+  "gd": 4,
+  "pts": 10
+ },
+ {
+  "pos": 5,
+  "team": {
+   "id": 1022,
+   "name": "Napoli",
+   "short": "Napoli",
+   "tla": "NAP",
+   "crest": null
+  },
+  "played": 4,
+  "won": 3,
+  "draw": 1,
+  "lost": 0,
+  "gf": 5,
+  "ga": 1,
+  "gd": 4,
+  "pts": 10
+ },
+ {
+  "pos": 6,
+  "team": {
+   "id": 1002,
+   "name": "Barcelona",
+   "short": "Barcelona",
+   "tla": "BAR",
+   "crest": null
+  },
+  "played": 4,
+  "won": 3,
+  "draw": 0,
+  "lost": 1,
+  "gf": 7,
+  "ga": 4,
+  "gd": 3,
+  "pts": 9
+ },
+ {
+  "pos": 7,
+  "team": {
+   "id": 1023,
+   "name": "Atalanta",
+   "short": "Atalanta",
+   "tla": "ATA",
+   "crest": null
+  },
+  "played": 4,
+  "won": 3,
+  "draw": 0,
+  "lost": 1,
+  "gf": 7,
+  "ga": 7,
+  "gd": 0,
+  "pts": 9
+ },
+ {
+  "pos": 8,
+  "team": {
+   "id": 1025,
+   "name": "Sporting CP",
+   "short": "Sporting",
+   "tla": "SCP",
+   "crest": null
+  },
+  "played": 4,
+  "won": 2,
+  "draw": 1,
+  "lost": 1,
+  "gf": 4,
+  "ga": 2,
+  "gd": 2,
+  "pts": 7
+ },
+ {
+  "pos": 9,
+  "team": {
+   "id": 1036,
+   "name": "Bodø/Glimt",
+   "short": "Bodø/Glimt",
+   "tla": "BOD",
+   "crest": null
+  },
+  "played": 4,
+  "won": 2,
+  "draw": 1,
+  "lost": 1,
+  "gf": 6,
+  "ga": 5,
+  "gd": 1,
+  "pts": 7
+ },
+ {
+  "pos": 10,
+  "team": {
+   "id": 1026,
+   "name": "Porto",
+   "short": "Porto",
+   "tla": "POR",
+   "crest": null
+  },
+  "played": 4,
+  "won": 1,
+  "draw": 3,
+  "lost": 0,
+  "gf": 8,
+  "ga": 5,
+  "gd": 3,
+  "pts": 6
+ },
+ {
+  "pos": 11,
+  "team": {
+   "id": 1031,
+   "name": "Galatasaray",
+   "short": "Galatasaray",
+   "tla": "GAL",
+   "crest": null
+  },
+  "played": 4,
+  "won": 2,
+  "draw": 0,
+  "lost": 2,
+  "gf": 6,
+  "ga": 5,
+  "gd": 1,
+  "pts": 6
+ },
+ {
+  "pos": 12,
+  "team": {
+   "id": 1021,
+   "name": "Juventus",
+   "short": "Juventus",
+   "tla": "JUV",
+   "crest": null
+  },
+  "played": 4,
+  "won": 2,
+  "draw": 0,
+  "lost": 2,
+  "gf": 4,
+  "ga": 3,
+  "gd": 1,
+  "pts": 6
+ },
+ {
+  "pos": 13,
+  "team": {
+   "id": 1017,
+   "name": "Marseille",
+   "short": "Marseille",
+   "tla": "OM",
+   "crest": null
+  },
+  "played": 4,
+  "won": 2,
+  "draw": 0,
+  "lost": 2,
+  "gf": 5,
+  "ga": 5,
+  "gd": 0,
+  "pts": 6
+ },
+ {
+  "pos": 14,
+  "team": {
+   "id": 1010,
+   "name": "Newcastle United",
+   "short": "Newcastle",
+   "tla": "NEW",
+   "crest": null
+  },
+  "played": 4,
+  "won": 2,
+  "draw": 0,
+  "lost": 2,
+  "gf": 2,
+  "ga": 2,
+  "gd": 0,
+  "pts": 6
+ },
+ {
+  "pos": 15,
+  "team": {
+   "id": 1018,
+   "name": "Monaco",
+   "short": "Monaco",
+   "tla": "ASM",
+   "crest": null
+  },
+  "played": 4,
+  "won": 2,
+  "draw": 0,
+  "lost": 2,
+  "gf": 3,
+  "ga": 5,
+  "gd": -2,
+  "pts": 6
+ },
+ {
+  "pos": 16,
+  "team": {
+   "id": 1011,
+   "name": "Tottenham Hotspur",
+   "short": "Spurs",
+   "tla": "TOT",
+   "crest": null
+  },
+  "played": 4,
+  "won": 1,
+  "draw": 2,
+  "lost": 1,
+  "gf": 7,
+  "ga": 4,
+  "gd": 3,
+  "pts": 5
+ },
+ {
+  "pos": 17,
+  "team": {
+   "id": 1007,
+   "name": "Liverpool",
+   "short": "Liverpool",
+   "tla": "LIV",
+   "crest": null
+  },
+  "played": 4,
+  "won": 1,
+  "draw": 2,
+  "lost": 1,
+  "gf": 7,
+  "ga": 7,
+  "gd": 0,
+  "pts": 5
+ },
+ {
+  "pos": 18,
+  "team": {
+   "id": 1009,
+   "name": "Chelsea",
+   "short": "Chelsea",
+   "tla": "CHE",
+   "crest": null
+  },
+  "played": 4,
+  "won": 1,
+  "draw": 2,
+  "lost": 1,
+  "gf": 3,
+  "ga": 3,
+  "gd": 0,
+  "pts": 5
+ },
+ {
+  "pos": 19,
+  "team": {
+   "id": 1005,
+   "name": "Villarreal",
+   "short": "Villarreal",
+   "tla": "VIL",
+   "crest": null
+  },
+  "played": 4,
+  "won": 1,
+  "draw": 2,
+  "lost": 1,
+  "gf": 3,
+  "ga": 3,
+  "gd": 0,
+  "pts": 5
+ },
+ {
+  "pos": 20,
+  "team": {
+   "id": 1019,
+   "name": "Inter Milan",
+   "short": "Inter",
+   "tla": "INT",
+   "crest": null
+  },
+  "played": 4,
+  "won": 1,
+  "draw": 2,
+  "lost": 1,
+  "gf": 2,
+  "ga": 2,
+  "gd": 0,
+  "pts": 5
+ },
+ {
+  "pos": 21,
+  "team": {
+   "id": 1006,
+   "name": "Manchester City",
+   "short": "Man City",
+   "tla": "MCI",
+   "crest": null
+  },
+  "played": 4,
+  "won": 1,
+  "draw": 2,
+  "lost": 1,
+  "gf": 6,
+  "ga": 7,
+  "gd": -1,
+  "pts": 5
+ },
+ {
+  "pos": 22,
+  "team": {
+   "id": 1013,
+   "name": "Borussia Dortmund",
+   "short": "Dortmund",
+   "tla": "BVB",
+   "crest": null
+  },
+  "played": 4,
+  "won": 1,
+  "draw": 1,
+  "lost": 2,
+  "gf": 5,
+  "ga": 4,
+  "gd": 1,
+  "pts": 4
+ },
+ {
+  "pos": 23,
+  "team": {
+   "id": 1014,
+   "name": "Bayer Leverkusen",
+   "short": "Leverkusen",
+   "tla": "B04",
+   "crest": null
+  },
+  "played": 4,
+  "won": 1,
+  "draw": 1,
+  "lost": 2,
+  "gf": 6,
+  "ga": 6,
+  "gd": 0,
+  "pts": 4
+ },
+ {
+  "pos": 24,
+  "team": {
+   "id": 1029,
+   "name": "Club Brugge",
+   "short": "Brugge",
+   "tla": "BRU",
+   "crest": null
+  },
+  "played": 4,
+  "won": 1,
+  "draw": 1,
+  "lost": 2,
+  "gf": 6,
+  "ga": 6,
+  "gd": 0,
+  "pts": 4
+ },
+ {
+  "pos": 25,
+  "team": {
+   "id": 1008,
+   "name": "Arsenal",
+   "short": "Arsenal",
+   "tla": "ARS",
+   "crest": null
+  },
+  "played": 4,
+  "won": 1,
+  "draw": 1,
+  "lost": 2,
+  "gf": 4,
+  "ga": 6,
+  "gd": -2,
+  "pts": 4
+ },
+ {
+  "pos": 26,
+  "team": {
+   "id": 1015,
+   "name": "Eintracht Frankfurt",
+   "short": "Frankfurt",
+   "tla": "SGE",
+   "crest": null
+  },
+  "played": 4,
+  "won": 1,
+  "draw": 1,
+  "lost": 2,
+  "gf": 4,
+  "ga": 6,
+  "gd": -2,
+  "pts": 4
+ },
+ {
+  "pos": 27,
+  "team": {
+   "id": 1028,
+   "name": "Ajax",
+   "short": "Ajax",
+   "tla": "AJA",
+   "crest": null
+  },
+  "played": 4,
+  "won": 0,
+  "draw": 3,
+  "lost": 1,
+  "gf": 2,
+  "ga": 3,
+  "gd": -1,
+  "pts": 3
+ },
+ {
+  "pos": 28,
+  "team": {
+   "id": 1012,
+   "name": "Bayern Munich",
+   "short": "Bayern",
+   "tla": "FCB",
+   "crest": null
+  },
+  "played": 4,
+  "won": 1,
+  "draw": 0,
+  "lost": 3,
+  "gf": 2,
+  "ga": 3,
+  "gd": -1,
+  "pts": 3
+ },
+ {
+  "pos": 29,
+  "team": {
+   "id": 1035,
+   "name": "Qarabağ",
+   "short": "Qarabağ",
+   "tla": "QAR",
+   "crest": null
+  },
+  "played": 4,
+  "won": 1,
+  "draw": 0,
+  "lost": 3,
+  "gf": 4,
+  "ga": 7,
+  "gd": -3,
+  "pts": 3
+ },
+ {
+  "pos": 30,
+  "team": {
+   "id": 1030,
+   "name": "Celtic",
+   "short": "Celtic",
+   "tla": "CEL",
+   "crest": null
+  },
+  "played": 4,
+  "won": 1,
+  "draw": 0,
+  "lost": 3,
+  "gf": 4,
+  "ga": 8,
+  "gd": -4,
+  "pts": 3
+ },
+ {
+  "pos": 31,
+  "team": {
+   "id": 1004,
+   "name": "Athletic Club",
+   "short": "Athletic",
+   "tla": "ATH",
+   "crest": null
+  },
+  "played": 4,
+  "won": 1,
+  "draw": 0,
+  "lost": 3,
+  "gf": 2,
+  "ga": 6,
+  "gd": -4,
+  "pts": 3
+ },
+ {
+  "pos": 32,
+  "team": {
+   "id": 1034,
+   "name": "Slavia Praha",
+   "short": "Slavia",
+   "tla": "SLA",
+   "crest": null
+  },
+  "played": 4,
+  "won": 1,
+  "draw": 0,
+  "lost": 3,
+  "gf": 4,
+  "ga": 9,
+  "gd": -5,
+  "pts": 3
+ },
+ {
+  "pos": 33,
+  "team": {
+   "id": 1024,
+   "name": "Benfica",
+   "short": "Benfica",
+   "tla": "BEN",
+   "crest": null
+  },
+  "played": 4,
+  "won": 1,
+  "draw": 0,
+  "lost": 3,
+  "gf": 3,
+  "ga": 9,
+  "gd": -6,
+  "pts": 3
+ },
+ {
+  "pos": 34,
+  "team": {
+   "id": 1033,
+   "name": "Copenhagen",
+   "short": "Copenhagen",
+   "tla": "COP",
+   "crest": null
+  },
+  "played": 4,
+  "won": 1,
+  "draw": 0,
+  "lost": 3,
+  "gf": 3,
+  "ga": 9,
+  "gd": -6,
+  "pts": 3
+ },
+ {
+  "pos": 35,
+  "team": {
+   "id": 1016,
+   "name": "Paris Saint-Germain",
+   "short": "PSG",
+   "tla": "PSG",
+   "crest": null
+  },
+  "played": 4,
+  "won": 0,
+  "draw": 2,
+  "lost": 2,
+  "gf": 2,
+  "ga": 6,
+  "gd": -4,
+  "pts": 2
+ },
+ {
+  "pos": 36,
+  "team": {
+   "id": 1032,
+   "name": "Olympiacos",
+   "short": "Olympiacos",
+   "tla": "OLY",
+   "crest": null
+  },
+  "played": 4,
+  "won": 0,
+  "draw": 2,
+  "lost": 2,
+  "gf": 2,
+  "ga": 7,
+  "gd": -5,
+  "pts": 2
+ }
+]

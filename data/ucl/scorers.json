@@ -1,0 +1,427 @@
+[
+ {
+  "player": {
+   "id": 9050,
+   "name": "Theo Ortega"
+  },
+  "team": {
+   "id": 1026,
+   "name": "Porto",
+   "short": "Porto",
+   "tla": "POR",
+   "crest": null
+  },
+  "played": 4,
+  "goals": 4,
+  "assists": 1,
+  "penalties": 1
+ },
+ {
+  "player": {
+   "id": 9000,
+   "name": "Ravi Brandt"
+  },
+  "team": {
+   "id": 1001,
+   "name": "Real Madrid",
+   "short": "Real Madrid",
+   "tla": "RMA",
+   "crest": null
+  },
+  "played": 4,
+  "goals": 3,
+  "assists": 1,
+  "penalties": 0
+ },
+ {
+  "player": {
+   "id": 9004,
+   "name": "Sami Mendes"
+  },
+  "team": {
+   "id": 1003,
+   "name": "Atlético Madrid",
+   "short": "Atlético",
+   "tla": "ATM",
+   "crest": null
+  },
+  "played": 4,
+  "goals": 3,
+  "assists": 1,
+  "penalties": 0
+ },
+ {
+  "player": {
+   "id": 9010,
+   "name": "Noah Okafor"
+  },
+  "team": {
+   "id": 1006,
+   "name": "Manchester City",
+   "short": "Man City",
+   "tla": "MCI",
+   "crest": null
+  },
+  "played": 4,
+  "goals": 3,
+  "assists": 1,
+  "penalties": 0
+ },
+ {
+  "player": {
+   "id": 9052,
+   "name": "Nico Brandt"
+  },
+  "team": {
+   "id": 1027,
+   "name": "PSV Eindhoven",
+   "short": "PSV",
+   "tla": "PSV",
+   "crest": null
+  },
+  "played": 4,
+  "goals": 3,
+  "assists": 1,
+  "penalties": 0
+ },
+ {
+  "player": {
+   "id": 9038,
+   "name": "Amir Lindqvist"
+  },
+  "team": {
+   "id": 1020,
+   "name": "AC Milan",
+   "short": "AC Milan",
+   "tla": "MIL",
+   "crest": null
+  },
+  "played": 4,
+  "goals": 3,
+  "assists": 0,
+  "penalties": 0
+ },
+ {
+  "player": {
+   "id": 9044,
+   "name": "Emil Haddad"
+  },
+  "team": {
+   "id": 1023,
+   "name": "Atalanta",
+   "short": "Atalanta",
+   "tla": "ATA",
+   "crest": null
+  },
+  "played": 4,
+  "goals": 3,
+  "assists": 0,
+  "penalties": 0
+ },
+ {
+  "player": {
+   "id": 9005,
+   "name": "Sami Okafor"
+  },
+  "team": {
+   "id": 1003,
+   "name": "Atlético Madrid",
+   "short": "Atlético",
+   "tla": "ATM",
+   "crest": null
+  },
+  "played": 4,
+  "goals": 2,
+  "assists": 1,
+  "penalties": 0
+ },
+ {
+  "player": {
+   "id": 9012,
+   "name": "Sami Alves"
+  },
+  "team": {
+   "id": 1007,
+   "name": "Liverpool",
+   "short": "Liverpool",
+   "tla": "LIV",
+   "crest": null
+  },
+  "played": 4,
+  "goals": 2,
+  "assists": 1,
+  "penalties": 0
+ },
+ {
+  "player": {
+   "id": 9020,
+   "name": "Mateo Okafor"
+  },
+  "team": {
+   "id": 1011,
+   "name": "Tottenham Hotspur",
+   "short": "Spurs",
+   "tla": "TOT",
+   "crest": null
+  },
+  "played": 4,
+  "goals": 2,
+  "assists": 1,
+  "penalties": 0
+ },
+ {
+  "player": {
+   "id": 9026,
+   "name": "Emil Rossi"
+  },
+  "team": {
+   "id": 1014,
+   "name": "Bayer Leverkusen",
+   "short": "Leverkusen",
+   "tla": "B04",
+   "crest": null
+  },
+  "played": 4,
+  "goals": 2,
+  "assists": 1,
+  "penalties": 0
+ },
+ {
+  "player": {
+   "id": 9032,
+   "name": "Mateo Ortega"
+  },
+  "team": {
+   "id": 1017,
+   "name": "Marseille",
+   "short": "Marseille",
+   "tla": "OM",
+   "crest": null
+  },
+  "played": 4,
+  "goals": 2,
+  "assists": 1,
+  "penalties": 0
+ },
+ {
+  "player": {
+   "id": 9040,
+   "name": "Ivan Brandt"
+  },
+  "team": {
+   "id": 1021,
+   "name": "Juventus",
+   "short": "Juventus",
+   "tla": "JUV",
+   "crest": null
+  },
+  "played": 4,
+  "goals": 2,
+  "assists": 1,
+  "penalties": 0
+ },
+ {
+  "player": {
+   "id": 9042,
+   "name": "Noah Ferrara"
+  },
+  "team": {
+   "id": 1022,
+   "name": "Napoli",
+   "short": "Napoli",
+   "tla": "NAP",
+   "crest": null
+  },
+  "played": 4,
+  "goals": 2,
+  "assists": 1,
+  "penalties": 0
+ },
+ {
+  "player": {
+   "id": 9051,
+   "name": "Kofi Moreau"
+  },
+  "team": {
+   "id": 1026,
+   "name": "Porto",
+   "short": "Porto",
+   "tla": "POR",
+   "crest": null
+  },
+  "played": 4,
+  "goals": 2,
+  "assists": 1,
+  "penalties": 0
+ },
+ {
+  "player": {
+   "id": 9060,
+   "name": "Kofi Silva"
+  },
+  "team": {
+   "id": 1031,
+   "name": "Galatasaray",
+   "short": "Galatasaray",
+   "tla": "GAL",
+   "crest": null
+  },
+  "played": 4,
+  "goals": 2,
+  "assists": 1,
+  "penalties": 0
+ },
+ {
+  "player": {
+   "id": 9068,
+   "name": "Ravi Moreau"
+  },
+  "team": {
+   "id": 1035,
+   "name": "Qarabağ",
+   "short": "Qarabağ",
+   "tla": "QAR",
+   "crest": null
+  },
+  "played": 4,
+  "goals": 2,
+  "assists": 1,
+  "penalties": 0
+ },
+ {
+  "player": {
+   "id": 9070,
+   "name": "Leo Lindqvist"
+  },
+  "team": {
+   "id": 1036,
+   "name": "Bodø/Glimt",
+   "short": "Bodø/Glimt",
+   "tla": "BOD",
+   "crest": null
+  },
+  "played": 4,
+  "goals": 2,
+  "assists": 1,
+  "penalties": 0
+ },
+ {
+  "player": {
+   "id": 9002,
+   "name": "Diego Okafor"
+  },
+  "team": {
+   "id": 1002,
+   "name": "Barcelona",
+   "short": "Barcelona",
+   "tla": "BAR",
+   "crest": null
+  },
+  "played": 4,
+  "goals": 2,
+  "assists": 0,
+  "penalties": 0
+ },
+ {
+  "player": {
+   "id": 9024,
+   "name": "Amir Silva"
+  },
+  "team": {
+   "id": 1013,
+   "name": "Borussia Dortmund",
+   "short": "Dortmund",
+   "tla": "BVB",
+   "crest": null
+  },
+  "played": 4,
+  "goals": 2,
+  "assists": 0,
+  "penalties": 0
+ },
+ {
+  "player": {
+   "id": 9048,
+   "name": "Noah Rossi"
+  },
+  "team": {
+   "id": 1025,
+   "name": "Sporting CP",
+   "short": "Sporting",
+   "tla": "SCP",
+   "crest": null
+  },
+  "played": 4,
+  "goals": 2,
+  "assists": 0,
+  "penalties": 0
+ },
+ {
+  "player": {
+   "id": 9056,
+   "name": "Noah Moreau"
+  },
+  "team": {
+   "id": 1029,
+   "name": "Club Brugge",
+   "short": "Brugge",
+   "tla": "BRU",
+   "crest": null
+  },
+  "played": 4,
+  "goals": 2,
+  "assists": 0,
+  "penalties": 0
+ },
+ {
+  "player": {
+   "id": 9066,
+   "name": "Emil Novak"
+  },
+  "team": {
+   "id": 1034,
+   "name": "Slavia Praha",
+   "short": "Slavia",
+   "tla": "SLA",
+   "crest": null
+  },
+  "played": 4,
+  "goals": 2,
+  "assists": 0,
+  "penalties": 0
+ },
+ {
+  "player": {
+   "id": 9001,
+   "name": "Jin Haddad"
+  },
+  "team": {
+   "id": 1001,
+   "name": "Real Madrid",
+   "short": "Real Madrid",
+   "tla": "RMA",
+   "crest": null
+  },
+  "played": 4,
+  "goals": 1,
+  "assists": 2,
+  "penalties": 0
+ },
+ {
+  "player": {
+   "id": 9021,
+   "name": "Sami Rossi"
+  },
+  "team": {
+   "id": 1011,
+   "name": "Tottenham Hotspur",
+   "short": "Spurs",
+   "tla": "TOT",
+   "crest": null
+  },
+  "played": 4,
+  "goals": 1,
+  "assists": 2,
+  "penalties": 0
+ }
+]
