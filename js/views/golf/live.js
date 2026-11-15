@@ -20,9 +20,9 @@ export function agoText(s) {
   return `Updated ${Math.round(mins / 60)} h ago`;
 }
 
-export default function live({ store, onLeave }) {
+export default function live({ store, comp, onLeave }) {
   const root = h('div', {});
-  const draw = () => root.replaceChildren(...build(store.state, store, draw));
+  const draw = () => root.replaceChildren(...build(store.state, store, draw, comp));
   const off = store.subscribe(draw);
   const ticker = setInterval(() => {
     const el = root.querySelector('.ago');
@@ -33,7 +33,7 @@ export default function live({ store, onLeave }) {
   return root;
 }
 
-function build(s, store, redraw) {
+function build(s, store, redraw, comp) {
   if (!s.board) {
     if (!s.ready) return [h('div', { class: 'skel' }), h('div', { class: 'skel' }), h('div', { class: 'skel' })];
     return [h('div', { class: 'section' }, h('div', { class: 'sticker empty' },
@@ -41,12 +41,16 @@ function build(s, store, redraw) {
       h('button', { class: 'btn', type: 'button', onclick: () => store.refresh() }, 'Try again')))];
   }
   const { event, course, players } = s.board;
+  // The feed can lag behind the real course: if players' tee times have passed but ESPN still shows them as waiting, say so.
+  const behind = ['between', 'pre'].includes(event.phase) && players.some((p) => p.state === 'pre' && p.teeTime && Date.parse(p.teeTime) < Date.now() - 10 * 60000);
+  const officialUrl = comp.espn === 'eur' ? 'https://www.dpworldtour.com/' : 'https://www.pgatour.com/leaderboard';
   const favs = readList(GOLF_FAVS);
   const demo = s.meta && s.meta.source === 'sample' && s.source !== 'live';
 
   // --- header sticker
   let tag;
   if (event.phase === 'live') tag = h('span', { class: 'live-tag' }, h('i', { class: 'pulse' }), `Live · Round ${event.round}`);
+  else if (behind) tag = h('span', { class: 'tag' }, `Round ${event.round + 1} under way`);
   else if (event.phase === 'between') tag = h('span', { class: 'tag' }, `Round ${event.round} finished`);
   else if (event.phase === 'final') tag = h('span', { class: 'tag' }, 'Final results');
   else tag = h('span', { class: 'tag' }, `Starts ${fmtDay(event.start)}`);
@@ -58,7 +62,7 @@ function build(s, store, redraw) {
     return h('span', { class: `rpip ${done ? 'done' : now ? 'now' : ''}` }, `R${n}`);
   });
   const facts = [event.purse && `Prize ${event.purse}`, course && course.par && `Par ${course.par}`, course && course.yards && `${course.yards.toLocaleString()} yards`].filter(Boolean).join(' · ');
-  const nextLine = event.phase === 'between' && event.nextTee ? `Round ${event.round + 1} tees off at ${fmtTime(event.nextTee)}` : '';
+  const nextLine = event.phase === 'between' && !behind && event.nextTee ? `Round ${event.round + 1} tees off at ${fmtTime(event.nextTee)}` : '';
   const src = s.source === 'live' ? 'Live from ESPN' : s.error ? 'Saved scores (live feed not reached)' : 'Saved scores';
 
   const hero = h('div', { class: 'golf-hero' },
@@ -71,6 +75,10 @@ function build(s, store, redraw) {
     h('p', { class: 'src' }, src));
 
   const notes = [];
+  if (behind) {
+    notes.push(h('div', { class: 'demo' }, `Scores are behind. Round ${event.round + 1} has started, but the free score feed has only sent Round ${event.round}. `,
+      h('a', { class: 'link-btn', href: officialUrl, target: '_blank', rel: 'noopener' }, 'Open the official live scores')));
+  }
   if (demo) notes.push(h('div', { class: 'demo' }, 'Demo scores. Real tournament scores appear once the live feed is reached.'));
   if (s.eventId) {
     notes.push(h('div', { class: 'demo' }, 'You are looking at a past tournament. ',
