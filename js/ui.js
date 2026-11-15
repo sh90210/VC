@@ -89,18 +89,18 @@ export function flagImg(url, alt) {
 
 export const teamName =(t) => (t && t.id != null ? t.short || t.name : 'To be decided');
 
-const dayFmt = new Intl.DateTimeFormat(undefined, { weekday: 'short', day: 'numeric', month: 'short' });
-const timeFmt = new Intl.DateTimeFormat(undefined, { hour: 'numeric', minute: '2-digit' });
+const TZ = 'Asia/Seoul'; // all times in the app are shown in Korea time
+const dayFmt = new Intl.DateTimeFormat(undefined, { timeZone: TZ, weekday: 'short', day: 'numeric', month: 'short' });
+const timeFmt = new Intl.DateTimeFormat(undefined, { timeZone: TZ, hour: 'numeric', minute: '2-digit' });
 export const fmtDay = (iso) => dayFmt.format(new Date(iso));
-export const fmtTime = (iso) => timeFmt.format(new Date(iso));
-const monthFmt = new Intl.DateTimeFormat(undefined, { month: 'short', day: 'numeric' });
+export const fmtTime = (iso) => `${timeFmt.format(new Date(iso))} KST`;
+const monthFmt = new Intl.DateTimeFormat(undefined, { timeZone: TZ, month: 'short', day: 'numeric' });
 export function fmtRange(startIso, endIso) {
   const s = new Date(startIso), e = new Date(new Date(endIso).getTime() - 3600 * 1000);
-  return s.toDateString() === e.toDateString() ? monthFmt.format(s) : `${monthFmt.format(s)} – ${monthFmt.format(e)}`;
+  return dayKey(s) === dayKey(e) ? monthFmt.format(s) : `${monthFmt.format(s)} – ${monthFmt.format(e)}`;
 }
 export function dayKey(iso) {
-  const d = new Date(iso);
-  return `${d.getFullYear()}-${d.getMonth()}-${d.getDate()}`;
+  return new Intl.DateTimeFormat('en-CA', { timeZone: TZ }).format(new Date(iso));
 }
 export function timeAgo(iso) {
   const mins = Math.round((Date.now() - new Date(iso).getTime()) / 60000);
