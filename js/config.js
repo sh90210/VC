@@ -3,12 +3,16 @@
 // and (if it needs different screens) add view files under js/views/<sport>/.
 
 // Tabs shown at the bottom of a competition. "icon" names live in ui.js.
+// Views marked hidden are pages you open by tapping something (they get no tab).
 export const VIEWS = {
   overview: { label: 'Overview', icon: 'home' },
   results: { label: 'Results', icon: 'ball' },
   table: { label: 'Table', icon: 'table' },
   stats: { label: 'Stats', icon: 'star' },
   bracket: { label: 'Bracket', icon: 'bracket' },
+  live: { label: 'Live', icon: 'live' },
+  schedule: { label: 'Schedule', icon: 'calendar' },
+  course: { label: 'Course', icon: 'flag' },
 };
 
 export const SPORTS = [
@@ -19,6 +23,7 @@ export const SPORTS = [
     competitions: [
       {
         id: 'ucl',
+        kind: 'soccer',
         name: 'Champions League',
         blurb: 'The biggest club tournament in Europe',
         dataPath: 'data/ucl/',
@@ -45,6 +50,31 @@ export const SPORTS = [
           { key: 'sf', label: 'Semi-finals', ties: 2 },
           { key: 'final', label: 'Final', ties: 1 },
         ],
+      },
+    ],
+  },
+  {
+    id: 'golf',
+    name: 'Golf',
+    emoji: '⛳',
+    competitions: [
+      {
+        id: 'pga',
+        kind: 'golf',
+        name: 'PGA Tour',
+        blurb: 'Live scores from the top US golf tour',
+        espn: 'pga', // ESPN's name for this tour
+        dataPath: 'data/golf/pga.json',
+        views: { live: 'golf/live', schedule: 'golf/schedule', course: 'golf/course', stats: 'golf/stats' },
+      },
+      {
+        id: 'eur',
+        kind: 'golf',
+        name: 'DP World Tour',
+        blurb: 'Live scores from the European tour',
+        espn: 'eur',
+        dataPath: 'data/golf/eur.json',
+        views: { live: 'golf/live', schedule: 'golf/schedule', course: 'golf/course', stats: 'golf/stats' },
       },
     ],
   },

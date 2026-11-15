@@ -237,3 +237,89 @@ h2.day { margin: 0 4px 8px; }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation: none !important; transition: none !important; }
 }
+
+/* ---------- Golf ---------- */
+.row-between { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+.golf-hero {
+  margin: 20px 14px 0; padding: 14px 16px 16px; position: relative; overflow: hidden;
+  background-color: var(--grass);
+  background-image: repeating-linear-gradient(115deg, rgba(255, 255, 255, 0.28) 0 10px, transparent 10px 24px);
+  border: var(--line); border-radius: 26px; box-shadow: 0 6px 0 var(--ink);
+}
+.golf-hero h1 { font-size: 1.65rem; font-weight: 700; margin-top: 10px; }
+.golf-hero p { margin: 6px 0 0; font-weight: 600; }
+.golf-hero .facts, .golf-hero .src { font-size: 0.86rem; font-weight: 500; }
+.golf-hero .next-line { font-weight: 700; }
+.ago { font-size: 0.82rem; font-weight: 600; }
+.tag, .live-tag {
+  display: inline-flex; align-items: center; gap: 6px; border: 2px solid var(--ink); border-radius: 999px;
+  padding: 2px 10px; font-weight: 700; font-size: 0.88rem; background: #fff;
+}
+.live-tag { background: var(--coral); }
+.pulse { width: 9px; height: 9px; border-radius: 50%; background: var(--ink); animation: blink 1.2s ease-in-out infinite; }
+@keyframes blink { 50% { opacity: 0.25; } }
+.rpips { display: flex; gap: 6px; margin-top: 12px; }
+.rpip { min-width: 42px; text-align: center; padding: 3px 0; font-weight: 700; font-size: 0.85rem; border: 2px solid var(--ink); border-radius: 10px; background: rgba(255, 255, 255, 0.6); }
+.rpip.done { background: var(--ink); color: #fff; }
+.rpip.now { background: var(--coral); }
+
+.chips.tight { padding: 0 0 10px; }
+.lb .cutline { background: #ffe3df; border-top: 2px dashed var(--ink); border-bottom: 2px dashed var(--ink); padding: 8px 12px; font-size: 0.86rem; font-weight: 600; }
+.prow + .prow { border-top: 2px dashed rgba(26, 23, 68, 0.22); }
+.prow-main {
+  display: grid; grid-template-columns: 50px minmax(0, 1fr) auto; align-items: center; gap: 8px;
+  width: 100%; min-height: 60px; padding: 8px 12px 8px 6px; border: 0; background: #fff; text-align: left; cursor: pointer;
+}
+.prow.open .prow-main { background: #f1f5ff; }
+.prow.hot .prow-main { box-shadow: inset 6px 0 0 var(--grass); }
+.prow.st-cut { opacity: 0.7; }
+.ppos { text-align: center; font-weight: 700; font-size: 1rem; display: grid; justify-items: center; line-height: 1.1; }
+.move { font-size: 0.72rem; font-weight: 700; }
+.move.up { color: #0b6b35; }
+.move.down { color: #c2362b; }
+.big-move { font-size: 1.1rem; min-width: 44px; text-align: center; }
+.pwho { display: grid; gap: 3px; min-width: 0; }
+.pname { display: flex; align-items: center; gap: 6px; font-weight: 600; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+.flag { width: 22px; height: 15px; object-fit: cover; border: 1px solid var(--ink); border-radius: 2px; flex: none; }
+.star-on { color: #d99a00; }
+.psub { display: flex; align-items: center; gap: 6px; font-size: 0.8rem; font-weight: 500; }
+.pips18 { display: inline-flex; gap: 2px; }
+.pips18 i { width: 5px; height: 10px; border: 1.5px solid var(--ink); border-radius: 2px; background: #fff; }
+.pips18 i.on { background: var(--grass); }
+.pscore { display: grid; justify-items: end; line-height: 1.1; }
+.pscore b { font-size: 1.5rem; font-variant-numeric: tabular-nums; }
+.pscore small { font-size: 0.78rem; font-weight: 600; }
+.under { color: #0b6b35; }
+.over { color: #c2362b; }
+.pmore { padding: 4px 14px 14px 62px; background: #f1f5ff; display: grid; gap: 8px; }
+.pmore p { margin: 0; }
+.rgrid { display: grid; grid-template-columns: repeat(var(--n), 1fr); gap: 4px 8px; text-align: center; font-weight: 600; max-width: 320px; }
+.rgrid > span:nth-child(-n + 4) { font-size: 0.8rem; }
+.rv { display: grid; line-height: 1.15; }
+.rv b { font-size: 1.1rem; }
+.rv small { font-weight: 600; }
+.btn.small { min-height: 40px; padding: 6px 14px; font-size: 0.9rem; box-shadow: 0 3px 0 var(--ink); justify-self: start; }
+.btn.plain { background: #fff; }
+.btn.wide { width: 100%; margin-top: 12px; }
+
+.srow { display: flex; align-items: center; gap: 10px; padding: 12px; }
+.srow + .srow { border-top: 2px dashed rgba(26, 23, 68, 0.22); }
+.srow .grow { flex: 1; min-width: 0; display: grid; }
+.srow small { font-weight: 500; }
+
+.tiles.flat { box-shadow: none; border: 0; padding: 0; background: none; display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
+.sticker.tiles.flat { border: var(--line); box-shadow: var(--pop); padding: 12px 8px; background: #fff; }
+.holes { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
+.hole { display: grid; justify-items: center; padding: 6px 2px; border: 2px solid var(--ink); border-radius: 12px; background: #fff; line-height: 1.2; }
+.hole b { font-size: 1.1rem; }
+.hole span { font-size: 0.82rem; font-weight: 600; }
+.hole small { font-size: 0.75rem; }
+.hole.par3 { background: var(--lilac); }
+.hole.par4 { background: #fff; }
+.hole.par5 { background: var(--sun); }
+.comp-tile .logo.golf { background: var(--grass); color: var(--ink); }
+.comp-tile .logo.golf svg { width: 34px; height: 34px; }
+.comp-tile p { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; }
+.comp-tile .live-tag { font-size: 0.75rem; padding: 0 8px; }
+.tiles.flat .tile b { font-size: 1.3rem; }
+.comp-tile + .comp-tile { margin-top: 12px; }

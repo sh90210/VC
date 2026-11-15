@@ -34,6 +34,9 @@ jobs:
         env:
           FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
 
+      - name: Fetch golf scores
+        run: node scripts/update-golf.mjs
+
       - name: Number this build
         run: sed -i "s/__BUILD__/${GITHUB_SHA::7}-${GITHUB_RUN_NUMBER}/" sw.js
 

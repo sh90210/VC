@@ -1,0 +1,6 @@
+{
+  "name": "score-hub",
+  "private": true,
+  "type": "module",
+  "description": "Score Hub: scores, tables and stats for the sports you follow."
+}

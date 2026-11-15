@@ -24,6 +24,9 @@ const ICONS = {
   table: '<rect x="3" y="4" width="18" height="16" rx="3"/><path d="M3 10h18M3 15h18M9 10v10"/>',
   star: '<path d="M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/>',
   bracket: '<path d="M3 5h5v5H3zM3 14h5v5H3zM16 9.5h5v5h-5zM8 7.5h3.5v9H8M11.5 12H16"/>',
+  live: '<circle cx="12" cy="12" r="2.5"/><path d="M7.5 7.5a6.4 6.4 0 0 0 0 9M16.5 7.5a6.4 6.4 0 0 1 0 9M4.5 4.5a10.6 10.6 0 0 0 0 15M19.5 4.5a10.6 10.6 0 0 1 0 15"/>',
+  calendar: '<rect x="3" y="5" width="18" height="16" rx="3"/><path d="M3 10h18M8 3v4M16 3v4"/>',
+  flag: '<path d="M6 21V4M6 4h11l-2.5 4L17 12H6"/>',
   refresh: '<path d="M20 11a8 8 0 1 0-2.3 5.7M20.5 4v7h-7"/>',
   back: '<path d="M15 5l-7 7 7 7"/>',
 };
@@ -76,12 +79,25 @@ export function crest(team, size = 28) {
   return badge();
 }
 
-export const teamName = (t) => (t && t.id != null ? t.short || t.name : 'To be decided');
+// Country flag; quietly disappears if the picture can't load.
+export function flagImg(url, alt) {
+  if (!url) return null;
+  const img = h('img', { class: 'flag', src: url, alt: alt || '', title: alt || '', loading: 'lazy', width: 22, height: 15 });
+  img.addEventListener('error', () => img.remove());
+  return img;
+}
+
+export const teamName =(t) => (t && t.id != null ? t.short || t.name : 'To be decided');
 
 const dayFmt = new Intl.DateTimeFormat(undefined, { weekday: 'short', day: 'numeric', month: 'short' });
 const timeFmt = new Intl.DateTimeFormat(undefined, { hour: 'numeric', minute: '2-digit' });
 export const fmtDay = (iso) => dayFmt.format(new Date(iso));
 export const fmtTime = (iso) => timeFmt.format(new Date(iso));
+const monthFmt = new Intl.DateTimeFormat(undefined, { month: 'short', day: 'numeric' });
+export function fmtRange(startIso, endIso) {
+  const s = new Date(startIso), e = new Date(new Date(endIso).getTime() - 3600 * 1000);
+  return s.toDateString() === e.toDateString() ? monthFmt.format(s) : `${monthFmt.format(s)} – ${monthFmt.format(e)}`;
+}
 export function dayKey(iso) {
   const d = new Date(iso);
   return `${d.getFullYear()}-${d.getMonth()}-${d.getDate()}`;

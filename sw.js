@@ -5,7 +5,8 @@ const BUILD = '__BUILD__';
 const CACHE = `score-hub-${BUILD}`;
 const SHELL = [
   './', 'index.html', 'manifest.webmanifest', 'css/styles.css',
-  'js/app.js', 'js/config.js', 'js/ui.js',
+  'js/app.js', 'js/config.js', 'js/ui.js', 'js/favs.js', 'js/golf-data.js',
+  'js/views/golf/live.js', 'js/views/golf/schedule.js', 'js/views/golf/course.js', 'js/views/golf/stats.js',
   'js/views/soccer/common.js', 'js/views/soccer/overview.js', 'js/views/soccer/results.js',
   'js/views/soccer/table.js', 'js/views/soccer/stats.js', 'js/views/soccer/bracket.js',
   'icons/icon.svg',
@@ -50,9 +51,10 @@ self.addEventListener('fetch', (event) => {
   const { request } = event;
   if (request.method !== 'GET') return;
   const url = new URL(request.url);
+  if (/site\.(web\.)?api\.espn\.com$/.test(url.hostname)) return; // live golf scores: always straight from the internet
   if (url.origin === self.location.origin) {
     event.respondWith(url.pathname.includes('/data/') ? networkFirst(request) : staleWhileRevalidate(request));
-  } else if (/fonts\.(googleapis|gstatic)\.com$|crests\.football-data\.org$/.test(url.hostname)) {
+  } else if (/fonts\.(googleapis|gstatic)\.com$|crests\.football-data\.org$|a\.espncdn\.com$/.test(url.hostname)) {
     event.respondWith(staleWhileRevalidate(request));
   }
 });
